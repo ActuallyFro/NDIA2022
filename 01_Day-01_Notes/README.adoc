@@ -1,18 +1,18 @@
 = Day 01 Notes
-Notes Title: ``
-link:00_Pre-kickoff_notes.adoc[]
+Notes Title: `Pre-Conference Notes`
+link:00_Pre-kickoff_notes.adoc[Pre-Conference Notes]
 
 Notes Title: `Quick Notes before Keynote`
 link:01_Kick-off.adoc[Quick Notes before Keynote]
 
-Notes Title: ``
-link:02_Keynote.adoc[]
+Notes Title: `Key Note Speaker`
+link:02_Keynote.adoc[Key Note Speaker]
 
-Notes Title: ``
-link:03_Prep-session_Panel_TestAndEval.adoc[]
+Notes Title: `Prep-session for T&E Panel `
+link:03_Prep-session_Panel_TestAndEval.adoc[Prep-session for T&E Panel ]
 
-Notes Title: `Chris _____`
-link:04_Prep-session_TestingContinuum.adoc[Chris _____]
+Notes Title: `T&E with Chris Collins`
+link:04_Prep-session_TestingContinuum.adoc[T&E with Chris Collins]
 
 Notes Title: `Test & Evaluation (T&E) Panel`
 link:05_TandE_Panel.adoc[Test & Evaluation (T&E) Panel]
