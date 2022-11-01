@@ -1,0 +1,91 @@
+= Digital Engineering Strategy for DHS
+
+== Topics 
+* Context
+* DE Transformation
+* Pilot 
+
+== Context: DHS S&T Directorrate
+* Established in 2003
+* Office and Science & Engineering 
+** Indepenent techincal acqusition
+** 
+
+== Context: Evloition of SE
+* Move from linear/stovepiped
+* to collaborative/dynamic approach
+** getting after changing environemnts
+
+== Context: Motivation for DE
+* BEGINING TO LOOK AT THIS!
+* LEveraged MITRE and 
+
+== Context: Motivation for DE
+* We don't have a timeline for the tools
+* BECAUSE we need the workforce
+** It's GOING TO BE LONG TIME
+** This drives a strategy change!
+* DHS is pushing the BENEFITS
+** Use case, and example needed!
+** To convice self and others of needing to do DE
+* 1) MOST major programs are COTS solutions
+** The main reality 
+* 2) We are growing/evolving -- BUT it's reactionary to threats
+
+In the govt' "we live above the line" -- Contractors 
+Below "org level" (sp) we do NOT have visability
+
+Key Question: How does this generate value?
+* We try to get COTS, and DEPLOY it FAST
+** They might not be able to affect engineering
+* Are there Measures of Effectiveness to trace to spec
+** Then leverage DE impact?
+
+== Digital Engineering Transformation
+MOST IMPORTANT PIECE: for "our digital strategy" -- we "have to BUY IT"
+** DE-as-a-Service
+* Has to be a value proposition (see bullet 1)
+* Ready policy/directives/etc. -- and it really won't drive or incentivise change
+* Other places approach
+** it's going to be A LONG TIME
+** We can't keep up; market place and opensource are going FAST!
+* some incentive (make it where ANY PM can put it there -- even as RFPs in evlautation 
+** leverage market forces
+
+This is proposed and set out to do
+
+== Pilot Project
+* Reach out to FFRDCs -- can this be replicated?
+* 
+* Issues in 
+
+** USED MITRE**
+
+Digital Engineering Platform
+* DHS CANNOT Duplicate this
+
+== Conclusion
+* It's a TOOL for decision making 
+* It WORKED with Performer + MITRE/DE + DHS -- that was a secret sauce
+** ID'ed techincal risk early on, and mitigated it
+
+Key challenge:
+* Right skills to execute
+* Right metric (dollars, time, etc. -- the senior leader sticker)
+
+== Question
+* Time?
+** There was a BUNCH of time that was slow rolloed
+* 8 Months -- 12 months + contract
+
+* International partners?
+** negative -- just US
+
+* Contracting Langauge?
+** Dealing with FFRDC -- MORE felxibility
+** Strategy of putting in RFP (they asked programs to capture SoW -- put into techincal data package)
+*** this CAN drive costs for RAW data
+*** VERSUS "decision"
+
+== Actions 
+[  ] TASK -- follow-up with the team & find MITRE POC
