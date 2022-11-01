@@ -1,0 +1,268 @@
+= Systems Engineering Panel 
+
+== Presentation: Dr. Katrina Mansfield
+* Army Futures command -- lead for Systems-of-Systems
+* Leads charge of AFC Digital Transformation in USA
+
+* Issue: FIND the data and connect IT
+** It was alarming S&T project data did NOT make it over to the program office
+** want to descrease that margin
+* Architectures
+** Issues with different ontologies
+** LOTS of JOINT efforts -- issues in leveraging data
+** DoD DE Stragey & AFC
+*** There are policies being laided down
+*** Example: EVERYONE is using MagicDraw
+**** DIFFERENT clouds, different licenses
+**** Lacking single source of authoratitve source (vs. individual locations)
+*** Looking at now and the future for data and sharing
+** Want to partner with and leverage industry for an Enterprise Solution
+* "They don't want to change; that's kinda okay not really"
+** GET BEYOND the coalition of the willing
+
+Background of AFC
+AFC is focused on "up to Milestone A"
+
+Digital Ecosystem
+
+* Looking at integration/ontoglogies -- how can we leverage models to ensure integration
+* "We do model and simulation right before an exercise" -- this should be done BEFORE!
+* Data is a problem
+** Irrelvant data
+** Data NOT in a requirements document
+* DE will (help) COUNTERACT issues faced
+** Otherwise we design the wrong thing
+
+* Huge strides
+** policy
+** business model
+** getting right tools
+** Army Cloud Environment
+
+== Presntation: USAF Digital Campagin SL for Systems Engineering with 
+
+Chris Garrett 
+
+T&E WENT FIRST -- SE Person and SE 
+NOTE this for next year!! 
+T&E got 1hr 20 mins ... we ONLY get 1hr ;)
+
+Ask the audience: who is working DE? -- "Everyone!"
+
+HOW many are working Digitial Engineering?
+Question to his group: "how do we "
+
+Participation: "Senior Leaders in those forums " GO FAST
+-- How many people had that defined
+
+Question: in the 60's "We are going to go to the Moon"
+-- taking about "pacing threat" -- speed of relevance
+"We" (USAF is) are chasing
+
+Air Force is taling speed (NOT DEFINED)
+IF you have been on programs, you HAVE TO SHOOT for something -- this a problem
+
+SLIDE 1: THE AIR FORCE IS NEVER GOING FAST
+WE ARE NOT GOING TO DIGITALLY TRASNFORM
+(2 years ago)
+Soup to nuts on, "trade space analysis to logistical sustainment"
+
+IF YOU DON'T use Automation -- then you can't go fast
+-- in "Digital Ecosystem": look at blue-gray trapezoid -- this is where automation can help
+Contending/supposing: (or as a supposition) IF we DO NOT do these as a community, then we CANNOT go fast
+
+"What do you mean by ________"
+NEED Massive Workforce change
+NEED 
+
+Major Air Vechile DEvelopment in EIGHT YEARS
+* When you set a schedule -- YOU HAVE TO take risk (you have so many events, and throw out OTHER events -- meaning risk)
+
+We need someone to say "We are going to the Moon"
+
+* As the SL for SE -- EVERYTHING centers around MBSE 
+** "When I look at the future digital world (models and data); we NEED perfection configuration management!" 
+*** All of those analysis in the Architecture can be DO this
+*** There is "nomagic" in this solution (he loves Cameo's design) -- it's NOT REALLY REALLY hard techincally, but given the stovepipe -- we have to COMPLETELY change 
+
+== Presentation: DAta Centricity: Multi-Directional Flow of Specialty Engiereing Data Throughtout the Life Culce
+
+Chris DeLuca Director of Specialty Engineering
+
+* DoD Data Strategy -- 2020
+** Laid out the path 
+** One of Mr. Chris ____ slides -- favorite slides: "Digitize OR DIE"
+** Big Red: can push out TWICE as fast
+** Can we react fast enough? We need to (almist talking seconds)
+* Dream: deploy capes to the edge -- we can collect CHANGE, push a software patch/fix, and make threat irrelevant
+ 
+Senior Leaders are getting togther -- best sustainment approach is DIGITAL engineering
+
+We HAVE NO body here (humor -- "Except THAT guy -- who is a somebody now")
+
+THE MOST important data is ON THE EDGE
+
+DoD in 2020 says "we are data centric" -- new adminstration made a position that is a DIRECT report
+* they are moving out (and us) on that DAta challenge
+** DATA is always going to be important -- BUT NOT ALL capes will need DE
+
+=== See - understand - decide - act
+(build resiliencym increase lethality, reduce demand)
+
+WE MUST think about the data that's out there
+
+how data is assesed and used throughout the lifecycle
+
+NOT JUST functional requirements, but also non-functional
+need RIGHT structure AND people to be able to execute
+
+THE MOST important data:
+Failure Mode, Defect, and (manufacturing?) data
+Warfighters use what they have -- wont trust it and cant use it if it fails
+
+The data is JOINT -- Gov't AND Contractor
+** MUST work hand-in-hand to make integrated data enviroment to be able to collaborate between industy+gov't
+
+Bottom: DE eco system is needed to meet CURRENT and FUTURE needs
+** SE Leadership and practice is NEEDED!
+
+"Last week at NASA" -- all our Program Offices need to do ______ 
+** Not in the role of Resourcing (past life)
+** WE ALL know DE is needed for the future -- ALL programs 
+*** NOT an immediate payback
+*** What POM-cycle considerations were had? (likely little to none)
+
+Leadership setup data strategy
+* They feel we are setup for success -- we aren't (really)
+* WE need to get together
+
+*** Mr. DeLuca is making a MAIN point for Thursday Topics***
+
+== Presentation: 
+Mr. Allan Dianic
+Director for Software Engineering & Prototypes
+
+- 32 years as SoftwareEng in industry 
+
+Interesting into RAPID software developement
+TWO WEEK Sprints (It's Flippant! -- but a metric in SofEng)
+
+As we strive to deliver capability faster...
+Software Engineering remains critical to success 
+SYSTEMS Engineering MUST KEEP PACE
+Common Data Standards -- can increase interoperability!
+
+SofEn NEEDS SE!
+We do NOT have 6 mos to prep for SRR
+Software Pipelines are "cranking though and creating development"
+We MUST use digital tools
+
+5000.01 AAF redid Software -- Software Acqusition Process
+* SOME people feel that SE does NOT apply to SofEn -- NOT TRUE!
+* Software has MANY, MANY systems interacting (some times unpredictably)
+** we need a good understanding SE
+
+=== WHY Rapid Iterative Approahces
+* Field new capability faster
+* Enabled but "digital model underneath" (e.g., requirements)
+
+=== Legacy Approach
+Waterfal was "okay" WHEN you did NOT have an intantalosuely released
+
+=== New Way
+You WILL NOT have time to look at SE review ... unless you have a digital toolset
+
+* Agile Software
+** MVP within 12 months
+** MVCR every 3-6 months
+
+
+=== Modern Software Engineering Driven by Digtal Transformation
+EVERYONE has the "barrel chart" AND figure-8 status (ALMOST MEME STATUS!)
+
+MUST have digital model/enviroment
+
+Pipeline -- so devs can get to it
+* NEED metrics/data/telemetry
+** used features
+** failures/issues
+*** "great dreamy future" -- allows the defect to be found, fixed, and fix then deployed
+** "Software Defined EVERYTHING"
+*** software is used for flexibility -- but has complexity (to allow)
+*** VI or EtsyMax (OLD SCHOOL software)
+**** new Cameo/SysML/etc./etc.
+**** Data/information might have to exist for YEARS -- it's not "just the tool" but it's a persistent asset we need to manage
+***** could be 20 to 30 years
+
+Questions:
+
+[@Mr. Garrett] What is the "ONE standard" that enables this?
+* NOT ONE
+* SixSigma -- you are ONLY AS FAST as the slowest process
+* Past conference:
+** USAF is a BAD customer!  (data provided)
+** USAF NEVER negotiates from a position of leverage
+* Techincal REference and Data Architectures
+** might support
+* MBAcq -- Model-based Acquisiton
+** we are never going to go fast, in air vehicles, BUT if there's reference structure (WBS for example -- at level 6)
+*** IP is "at level 6"
+*** By defining this structure, AS A COMMUNITY, it allows 
+** "Dave Dee" -- it's a 20 year journey!
+
+[@All] What is the most imnportant?
+[Mr. Deluca]
+* Focus on eliminating defects in the LIFECYCLE
+** taking out failiure modes
+** Gets at our inability to keep our most sophisticated systems and their reliability
+*** Keeping them working IS HARD
+** We work on this by collecting data, working on that, and acting upon the data 
+* Yet, if inittial design/architecture is NOT using
+** 70% of lifecycle (historical fact) is locked in BY FIRST proto-type "build" (assuming that system is picked as the design; vs. a flyoff)
+* The "early decisions" are the MOST critical
+** It's a bit of trap -- A LOT of things flow in and out of defect issues
+*** follow data/failure-mode thread -- it can help streamline and apply focuse
+* COnvince me otheriwse
+
+[Mr. Dianic]
+Trying to conince otherwise:
+We NEED API's! and Comms!
+Moving forward with 
+Systems need to talk! (they currently don't)
+Cloud-based systems enable logically 
+BUT if 
+
+[Dr. Mansfield]
+Q: Gov't IT is SLOW to roll-out, how do give new tools/capabilities
+Looking at "tools"
+** As long as we can get the "data out" -- then the tool doesn't matter
+*** ALSO -- does it maintain the integrity of the data?
+** Don't WANT to dictate tools -- BUT data and formats are crucial (and the I/O of it)
+
+"This anoynusmous person has LOTS of questions...." (humor/joke)
+
+Q: How do we close the gap on DE and MBSE for SE -- with Programaamgnet (since if those that DOn'T understand it might not care)
+[Mr. Dianic]
+* "Do you have numbers?"
+** Minutes PER requirement -- highlights an issue
+** SofEn there's LOTS of data/metrics -- but what's valuable?
+* POWER POINT IS NOT DIGITAL Engieering TOOL
+* Excel IS NOT an Numerical Analysis Tool
+* PUT IT ON THE CLOUD helps!
+** IT/Security is putting a HAMPER on Desktops
+** we need SOME environments to accept risk!
+
+[Dr. Mansfield]
+* "Seeing is believing" (unfortunately)
+*We have to show it to leadership
+* We can policy ALL DAY
+** BUT if they don't recognize it's value -- then it doesn't matter
+** Using a STICK is fine, but they need to see "hey this is a great thing to do"
+
+[Mr. DeLuca]
+* LEAD SE (either side) needs to be articualte to show upgrade/patch/improved OVERTIME
+** enables increasing capability
+** Talk to that and share 
+
+
+TECHINCAL TRACKS -- GET OUT!
