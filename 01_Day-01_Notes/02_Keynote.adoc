@@ -1,0 +1,142 @@
+== Key Note
+* Mr. Elmer Roman (SES) Director of Mission Engineering
+** Biography
+** OUSD (R&E)
+
+* Welcome
+** appreciate the opportunity to speak
+** It's been a long two years!
+* Engineers place a critical role in creating new capes
+* Vote by hands (Govt, Industry, Academia) (30, 60, 10 -- ROM)
+
+* Background on Mission Integration
+
+* Recent Changes and Initatives
+** What we are doing to advance the state
+** Organization -- "Right warfighting capes to the warfighter"
+** Focus on trasnisitoning tech to capes
+** Systems Enginering
+*** DT&E Pannel later today
+** Several on Systems Engineering and Architecture
+* Directly aligned under CTO -- flattened to enable rapid dev/creation of capes
+
+* ID Tech -- Mission Capes teams work with Industry to change with way we fight and field
+** Look at and quantify gaps
+** Conduct ME studies, and provide analysis of BEST capes (for prototyping and experiementation office)
+** Once protypes are developed, the new office (missed) ensures techincal maturity has been reach to enable fieleding
+
+
+* R&E Inittiatives
+** RDER (Rapid DEf Experimentation Reserve)
+** AFID?
+
+=== Rapid Defense DEfense Experimentaion Reserve
+(Details on the slides)
+Alex Lovell (sp)?
+Mission Engineering 
+Joint Warfighting concepts tests (for Red, Blue, and Green) (NKE and Logisitcs) (Look at improving impacts based on modeling)
+
+Established in July
+First set 
+Expiedte the transition of Small Business and non-traditional Contractors
+Provide earlier in schedule
+It's another tool to enable transistion OVER the 
+$100M to 10 companies to enable faster fieleding
+
+National Devense Strate
+NDS&T -- 2023 (early)
+Workforce, 
+Pursuit of tech -- which prioritizes THE MISSION
+Gaps Id'ed, Mission Critical Drives (survey, select, enable mission)
+Sets statndards for perforamnce
+Focuse on Integrated mission directives
+
+Currently under review for formal guidance -- they are started the draft of ME 
+
+Executive Order (Bio Technology)
+See: https://www.defense.gov/News/Releases/Release/Article/3157504/new-biotechnology-executive-order-will-advance-dod-biotechnology-initiatives-fo/ 
+
+Awarding of $27M to Historicall Black C U HBCU awarding
+
+=== Modernization of SE 
+* On going effrots 
+* Building on LAST year's focus on SE and MBSE
+* Looking to modernize the TTPs on SE lifecycle (POC: Nadine (sp))
+* Push to have an integrated, and authortative support
+
+NO program should start a plan WITHOUT having a data plan
+* Want to leverage the benefits of Digitization and Digital Engineering
+** RFPs, deliverables, and outyears' collection
+
+* Architectures
+** SOON to published MOSA guidance
+
+* T&E
+** Digital transformation of Test
+** Hollistic approach -- to deliver at the speed of relevanace
+** Looking to Validate to enable continous validation -- with Model-based envieronment support
+
+== Scope of Mission Engineering
+* It has come A LONG WAY in the past several years... and thanks (to everyone here)!
+
+* Definition of Mission Engineering
+** There's a "ME Guide 2.0"
+** [ ] Find old or NEW copy
+** New one is expected EARLY 2023
+
+BUILD the right thing, versus just "building it right"
+
+Mr. Roman came back into the service in 2020 to help create the ME Guide 1.0
+
+* There's a Mission Engineering Panel
+** Beauty is you get to see him TWICE! ;)
+
+Large and small businesses MAKE this happen
+* We are looking the aryt of the possible to enable the mission
+* reduce waste/buearacarcy
+* Several ways to engage
+** BAA -- Critical Technology
+*** 30 companies
+*** 16 agreements, non-funded, to share curernt issues
+*** Question: do we want to release another one?
+** Another discussion on RDER today
+*** SAMS.gov have 3 to 4 postings per year
+** New website to harness (which we were ask to NOT mention ;) -- details eyes/ears only)
+
+Ask: In order to meet the chanllenge of advsaries, and meeting -- with time being of the essance
+* Thanks to NDIA to help near, midterm, and those on the horizion
+
+== Questions
+* Draft of the ME Guide
+** Late Jan '23
+
+* How is DE integration into ME?
+** Two ways: (1) DE on the frontend -- to digitize threats using MBSE tools (to enable analysis), (2) on the mission analaysis -- there are tools (missed the name) -- looking at making common tools (software), digital twins, 
+
+* What is the Dept doing to Fund the tools and training?
+** Currently a report to congress -- working on ID'ing the resources and capabilities
+** Later in Decemeber, the amounts/details will be released
+*** Issues: we need expertise in workforce, and the training
+
+* Space Force -- with MBSE needs -- do we expect effeicenties in the future?
+** Yes -- what MBSE provides: tools, environment to enable collaboration. 
+** Provides a place to host ideas/TTPs, then share
+** Current issue: fragmented, difference references
+** BY collecting and sharing, then enables and provides a common picture to killchains/etc. (example: JADC2)
+** Tools will enable that.
+
+* Will this look at non-traditional requirements
+** Less functional requirements or lifecycle requirements?
+** Looking at Acq and Sustainment -- using mission threats, to enable review of investments
+** A&S, Joint Staff, and COCOMS
+
+== Final thoughts
+* Thanks!
+* This will come up again later today -- enjoy the conference!
+
+== POC INFORMATION
+703-693-0398
+elmer.l.roman.civ@mail.mil
+
+
+TODO: [ ] FIX spelling/grammar/etc. ;)
