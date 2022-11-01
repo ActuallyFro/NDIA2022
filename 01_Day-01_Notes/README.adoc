@@ -1,0 +1,23 @@
+= Day 01 Notes
+Notes Title: ``
+link:00_Pre-kickoff_notes.adoc[]
+
+Notes Title: `Quick Notes before Keynote`
+link:01_Kick-off.adoc[Quick Notes before Keynote]
+
+Notes Title: ``
+link:02_Keynote.adoc[]
+
+Notes Title: ``
+link:03_Prep-session_Panel_TestAndEval.adoc[]
+
+Notes Title: `Chris _____`
+link:04_Prep-session_TestingContinuum.adoc[Chris _____]
+
+Notes Title: `Test & Evaluation (T&E) Panel`
+link:05_TandE_Panel.adoc[Test & Evaluation (T&E) Panel]
+
+Notes Title: `Mission Engineering`
+link:06_ME_and_the_DAF_Operational_Imperatives.adoc[Mission Engineering]
+link:06_Mission-Engineering_and_DAF_Operational_Imperatives_Dr._Tim_Grayson.pdf[PDF]
+
