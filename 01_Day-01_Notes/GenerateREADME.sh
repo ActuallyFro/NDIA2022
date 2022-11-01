@@ -13,12 +13,12 @@ for file in *.adoc; do
     # get two digit number from file name
     num=$(echo $file | grep -oE '[0-9]{2}')
 
-    echo "[DEBUG] Looking for: $slidesPDF"
+    # echo "[DEBUG] Looking for: $slidesPDF"
     if [ -f "$num"_*.pdf ]; then
       #save file name in var
       slidesPDF=$(ls $num*.pdf)
 
-      echo "[DEBUG] PDF/slides ($slidesPDF) MATCH FOUND for $title"
+      # echo "[DEBUG] PDF/slides ($slidesPDF) MATCH FOUND for $title"
       echo "link:$slidesPDF[PDF]" >> $outFile
     fi
  
