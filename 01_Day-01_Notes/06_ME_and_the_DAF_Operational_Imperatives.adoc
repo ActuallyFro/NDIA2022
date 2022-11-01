@@ -1,0 +1,156 @@
+= Mission Engineering
+Dr. Timothy Grayson
+- Former lead of DARPA
+ 
+== Overview of Mission Engineering
+* Infographic -- taken from a study -- for Dept Def Shanahan (sp)
+--> Development of new military concepts must take a mission-centric approach
+ 
+It was a main -- need a mission-centric department
+Requirements flowdown is
+Operators -> requirements -> Gaps ->
+It's self limiting
+ 
+MIssion CEnter Model
+Ops are developing
+WITH Technologists
+Operators: "Here are the types we have" -- which was make the old ones better
+Technologists: "I don't have a requirement"
+ 
+== DAF Operational Imperatives
+ 
+* A YEAR Ago: last secretary: A&S and R&E was split
+** Air and Space forces are CRITICAL in that fight against Peer Adversary
+** When asked: what/how?
+*** Gave 7 Operational Imperatives
+ 
+=== Operational Imperatives Teams
+* Operational AND capabilities lead (new gaff: gapabilities)
+* "Doesn't fit in current program of record", "it doesn't fit in a O-PLAN"
+** Secretary Kendal (sp) -- ready to break down doors
+*** IF grounded in reality
+ 
+* There was a "long list" - of operational imperatives (CUI or greater)
+** NOT sharing those today
+** This is NOT just a QRC
+* The 7 operational
+ 
+"We have a lot of money" -- NEW FY24 Money -- making these operational imperatives into Program Offices
+** Concurment and development of the details
+** To get after aggressive
+* NOT separate Innovation funds!
+ 
+* SE/ME applicable -- #2 -- Getting after ABMS (the USAF contribution to JADC2)
+** Putting into a structure
+*** From Agile structure to Program Structure
+** Building Architectures and foundations
+* Looking at Autonomous and Human-machine-pairing
+ 
+== Look at blast from the Past (DARPA):
+Look at DARPA's OV-1 on Mosaic Warfare
+ 
+* Adaptive System-of-Systems drive the need for Mission Engineering
+* Fully composable and reconfigurable (BUT it's a bit more restrictive due to program of record constraints)
+ 
+== A scale of Integration
+Technical Audience, Geeking out:
+HOW we get after it?
+Traditional approach: "lets take a program office" ... get the Gov't Reference Architecture ... make the Government a Buyer (and integrator)
+... IF the standards are in place, then it all "snaps together"
+AT BEST: it's LETHARGIC -- it takes time, and usually we aren't completely happy with the results
+ 
+Other approach: Large System integrator
+** arguably the WORST way to approach solutions
+* Trying to capture ALL requirements, then push down with system-of-systems (which the integrator then 'puts it all together')
+** we have a bad history of executing this approach
+ 
+== Managing Complexity
+* Challenge: how to provide the greatest range of options while managing complexity of decision making (for humans and AI)?
+ 
+* Typical for organization: the greater the depth of control, and Span of control -- the MORE micromanaged it becomes
+* The technical standpoint: complexity is geometrical (and explodes)
+** When there's MORE fidelity -- THEN limit the scope or span of control
+*** Likely there's going to be regrets due to abstracting
+*** We WANT a high echelon (the 1000' screwdriver)
+** NEED information Discipline -- don't seek information every time
+*** Manage by exception or contingency -- versus EVERY time
+ 
+When looking at ABMS -- it LOOKS likes a Systems-of-systems problem
+* Approach: create separability of Command from Control, Distributed Battle Management
+ 
+** Assets are controlled by each Battle Manager -- span is small, BUT depth is great
+*** They might NOT need a HUGE understanding of the system/status, but just enough data/information can assist their mission
+ 
+The heart of system-of-system problems doesn't need to be solved (e.g., focus on the primary, not the corner case)
+ 
+We want "the early days of cloud" (backups, easy fail over,etc.) -- we want this BUT for Missions
+ 
+== Implementing Scales of Integration
+Left side is SINGLE integrator, other is Govt as Integrator
+| Large System Integrator <-------------------> Govt Integrator |
+| Large System Integrator <--------- (Likely sweetspot for ABMS -- PEO to have a lite systems integrator with Govt as integrator) ----------> Govt Integrator |
+ 
+At AFA: Sec Kendall (sp) -- BOMBSHELL announcement -- C3 Battlemanagemet PEO creation
+** DIRECT acquisition authority
+** BUT is an integrator for C3 Battle Management
+--> NOT the singular PEO for C3
+ 
+BGen _____, will have chief engineer, and chief architect (AS integrator)
+** there are MANY things they won't have control of (e.g., the architecture and needs for interoperation)
+ 
+Gov't has not done a great job as Infrastructure as a Service ... love to see Integration as a Service
+Mature to a point to have people bring SMEs/capability to do "interoperability on demand"
+ 
+Q&A:
+ON Mosaic -- Question how can we use MBSE to help with the design, BUT enable it to be agile enough to adapt/change
+ 
+Major Acquisitions are cropping up -- look for FY24
+ 
+How is USAF is bringing Acquisition Phase up to speed on the Mission Engineering/MBSE approach?
+* We have a very determined Secretary -- ALL PEO's are getting Commander's Intent
+** NOT JUST how we fight
+*** BUT how we acquire things
+* Example for Imperatives -- how you get Execution Plans
+* The FULL procurement strategy is being built
+* Working on POM25
+** To extend/fix these issues
+* Looking at institutionalizing (think 3 PCS cycles) -- and work himself out of his job -- to
+ 
+QUESTION: Implement enforcement/(IG)
+* DO NOT solve this problem with more bureaucracy
+** Some of these policies MIGHT have outlived their usefulness
+*** ABMS -- look at "value proposition" of MBSE tools (then leverage the work)
+*** BUT do not "use it just because"
+ 
+QUESTION: See Navy "distribution" of decision making -- (Navy is the definition of an Edge Node)
+* Distributed C2 is "baked in"
+* An interesting element: there's an opportunity to enable a federated method of interoperability
+** IF ALL you need is something like an "SOS Message" -- then a red/yellow/green note might be enough (versus some massive database)
+*** WORK the operational engineering (and operation concepts)
+** It's critically important to figure out Joint C2
+*** How we do ADCON/OPCON is important -- BUT COMPLEX
+*** Using Mission Engineering we can get after solutions/framework
+**** AND needs to be agile
+**** Looking at D-day -- every will likely change;
+ 
+QUESTION: JCIDS vs. JUON type approach?
+-- does this short-circuit JCIDS? -- NO; it looks at creating requirements and extending from existing SPO's (this ALL fits in full/current acquisition process)
+BUT how do we get out of the self-imposed constraints
+ 
+QUESTION: Has AMBN defined it's MBSE eco-system?
+* Short: NO
+* ABMS -- Digital Engineering Construction Consortium
+** Help up to Digital Architecture/structure of ABMS
+** Tools and architecture
+* THe "chicklet problem" (all supports for ABMS thrown on a plate of little solutions)
+** Grab the useful
+** Thank
+** Cloud Platform that can be leveraged --
+*** Federate TWO approaches for a while, THEN migrate to one
+* Looking cross DAF, 2IC (?), DoD to
+ 
+QUESTION: Traditionally Multiple Architectures are created for Program of Record (POR); Will they be funded?
+* POR -- means it will be funded
+* Integrating PEO (PEO implies it's OWN POR)
+** It acknowledges there's "a lot" out there
+** Example: Space-based in C3 (first ONE) is NOT the owner of it (That's Space Force), but they can inform needs/req's for USAF needs (via the PEO)
