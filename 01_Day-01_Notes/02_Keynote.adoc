@@ -1,4 +1,6 @@
-== Key Note
+= Key Note Speaker
+
+== Background
 * Mr. Elmer Roman (SES) Director of Mission Engineering
 ** Biography
 ** OUSD (R&E)
@@ -11,7 +13,7 @@
 
 * Background on Mission Integration
 
-* Recent Changes and Initatives
+== Recent Changes and Initatives
 ** What we are doing to advance the state
 ** Organization -- "Right warfighting capes to the warfighter"
 ** Focus on trasnisitoning tech to capes
