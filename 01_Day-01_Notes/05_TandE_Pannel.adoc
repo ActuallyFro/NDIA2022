@@ -1,0 +1,233 @@
+= T&E Panel
+
+MIX of Government and Industry
+Open dicussion
+Aim: digital transformation help T&E 
+
+Changes in leadership, and even policy!
+
+== Panel - Members
+
+List  of members (opening comments)
+
+1. Dr. Sandra Hobson
+2. Chris Collins 
+3. Mark Kassan Director for Nuke Weapon System (Kirtland) (LED Digital Tranformation in AFLCMC)
+4. Dr. Paul Acarpio (sp) 
+* Statistical Analysis -- a BAD word for T&E
+5. David ____ - Lockheed Martin - T&E Outreach lead
+* IF we can make faster decisions, then we'll get better 
+6. Chris Carhardt (sp) (Boeing)
+
+== Panel -- Around the room:
+1. @Chris Collins: Continuum 
+* Needs:
+** (1) critical data underpinning in model-based (investment in infrastructure, authoritative)
+** (2) IF we are REALLY going to , then ensure that tools (e.g., SysML) have T&E components are integrated
+** (3) COntinuity of Modeling and Simulation -- we need to be able to work and build off Missioning Engineering Analysis --> Need ontology, Disctionary, Schema to enable federation of Systems of Systems
+
+2. How are we connecting?
+* Our current processes WORK -- but are TOO slow!
+* ONE test at a time
+* Design of Experiments
+* BUT his approach -- 50% FEWER tests, but more total tests/data were able to be collected
+** shows 
+** MOST engineers don't take stats -- BUT you don't have to teach it ... it's "jsut a button"
+** MORE statstical engineers 
+** We have 10 years to wait for culture cahnges (look at agile -- 2002 -- but not until 2015)
+*** UNLESS there's POLICY changes!
+*** "Agile Fog"
+*** There's a small window to implement changes, some might "want to try it" having done it once, but if missed out twice -- they MIGHT
+*** Industry has the smartest engineers in the world -- WHY NOT leverage it?
+
+[Dr. Hobson] Key techonloy is messaged: Integrated T&E in integration of MBSE with T&E to "shift left"
+* in terms of acquistion process
+* where can we plug in T&E
+* Several intitiaivets in FY23 (what does it look like, who is doing it, how is T&E doing it?)
+** SHIFT from document driven processes to "data" driven processes
+** how do we represent the system (when buried in Acq docs -- TEMP, Acq Strat, etc.) from development to OT&E/fielding?
+*** Retrospective look: there's a system out there -- with OT&E, and what are the opportunities to intro Tools and Effiencies?
+*** Dev testing, component testing, subs-ssytem, system -- levels of maturity -- ALL provide information to give insight into performance in operational environements
+**** SHAPE the system sooner, than later
+*** what are the opporunities to form the next phase of test (more effiencyt in characterization and follow-up tests)
+** In Model-based engineering?
+*** USED TO: 200+ page TEMP (that are a snap shot in time)
+**** can be used for YEARS
+**** NOT flexible, can't be changed
+*** We need underlining architeture to support
+**** Data bases, Tools, how we use different data (circumstances/info) to build
+**** The tools/info are OUT THERE -- but 
+
+[ ] IS MAC doing this? -- pain points/lessons learned 
+
+[Chris Collins]
+WHERE DO WE SAVE MONEY?
+* Investment: in Model-based
+* Likely in COST avoidance!
+
+[Mark Kassan]
+Dr. Roper has been pushing this 
+*
+* define training
+* WE NEED the functionals (and have) APAN  -- All partner's access network -- DIGITAL guide
+* Brought in vendors to teach the Air Force
+** Digital Smart Sessions -- 
+** AFMC -- ENTERPRISE LEVEL! (Define at the )
+* There's a Tool/metric to enable anaylis/tracking of progress
+** Referencing Gov't ARchitectures
+** Standards in (or moving towards) 
+** Efforts on DIDs for MBSE contracts 
+
+
+[]
+Machine Learning and AI are removing explict need for HPC
+* enables Cloud
+** FMU FMI's to leverage neural networks that are much less demanding
+** Avoid Pain Points
+* Use of MBSE
+** What tends to happens with SE -- Model gets "Drops on the Floor"
+*** We move to the NEXT step, then start over
+** T&E can influence the MBSE approach
+** T&E has (and NEEDS) models that are usable for test -- which is from Systems Engineers
+* HOW do we trust the models? (my words -- ALL MODELS are wrong, some are useful)
+** Knowning statstical models
+* These models, that ARE TRUSTED, can be used in Live, Virtual, Constructive environments
+** HIGHER fidelity
+* Convergence of Capability to gives great returns when leveraging
+
+[Chris Carhardt]
+* T&E has to occur early and often
+* Systems Integration Lab (hardware-in-the-loop-lab)
+** Integrated VM's to FULL "Iron Bird" (everything is real -- except for environment)
+** These enviroments exist on a spectrum
+* They can be used ACROSS lifecycle (the "whole V")
+** REquirement definition
+** To incident/investigation
+* Enables iterative development
+** Find Emergent behavior that might not have been found in pure analysis or even simulation
+** Examples: Cockpit layout/(TO) Process review
+*** This gives a setup of "real instanaces" -- and "simulate everything else" 
+* How does this address confidence:
+** Resilience and REdundancy testing -- this is "as real as you can get" without having a safety issue
+*** ex: emergency proceedures
+*** TOO dnagerous to test (e.g., wind shear)
+*** MULTIPLE critical issues/failutres
+
+== Open Questions from Slido Polls/voting
+
+Number 1 developement:
+* Cooperative but sharing can be accomplished, and that pressure can 
+
+[Chris Collins]
+* REsolve as a community: (1) we will NEVER just have 1 approach to solve everything (sysml, cameo, rapsody)
+** underlying data is key
+** Onesize fits all (won't work)
+
+[Paul A.]
+* We are STILL going through the culture change for T&E
+** we need to lower barrier of entry
+*** Example: it's a HEAVY LIFT to get a tester to use cameo
+** Leverage Look at Formula 1 -- they incoprorate date EVERY LAP of the race -- can we do that?
+
+[Dr. Hobson] What efforts are underway for Test & Dev
+* Looking at Digital Transformation (many see it as a buzzword) -- so what is meant?
+** Education is needed
+** Get usecases to show DE and Digital Transofrmation
+* FEAR: model-based environment -- it's NOT as credidle
+** "Data is data" -- but it's not open air, or hardware in the loop
+** There's a lot of angst / level of uncomfort WITHOUT knowing
+* There's a struggle for defining "what is confidence level" of representing the truth (the enviroment, the system)
+** V&V -- defining that
+** Fidelity of models (and purpose) -- especially with OT&E
+* LOTS of issues with transition into this world; and we NEED to be mindful of representing threats, operating enviroments
+** When we NEED to use it for operational enviroment -- there are DIFFERENT standards, live within the means of what is possible
+*** know what we have and don't have
+*** know what we "know and don't know"
+** Careful and work together to help understand this enviroment
+
+[Chris Collins]
+* this approach will INFORM the discussion
+* THIS CANNT be SE modeling, THEN T&E Modeling -- it needs collaboration and agreement
+** To enable broader systems-of-systems testing
+
+[Mark Kassan]
+Question with data intestive workd -- how to we determine what data elements are cirticl 
+* We have Software and System Architectures
+* We can have REALLY good Modelers and really good testers -- but often then don't connect
+** Systems and Softwre engineers 
+
+* I need this data to answer that question
+
+[Chris Carhardt]
+* On architecture
+* example: look at Mission critical faults -- know gaps (e.g., safety critical analysis events)
+** The modeling is needed -- and that drives to data elements
+** done at the right 
+
+[Dr. Paul A.]
+How to trasnform our procurement process?
+* Acceptance of artifacts
+** MVP of deliverables
+** Old: 500 page report... new: if agile process, then we can have incremental delivery and even a model is delivered
+
+{Random thought: Documents/Diagrams as code}
+
+QUESTION: When is ______
+
+"Fully elimnate concept of the document"
+* Document could be a view of an underlying model
+** this can provide particulars (data/analysis/etc.)
+* Do you need ALL stakeholders to speak 
+INSOCE conference quote: DON'T show your SysML to a city planner -- they'll show you the door
+* MBSE is NOT incopatible with documents
+Cathedral in a Bazar -- you build a PERFECT model that can used for decades -- but it might not be applicable in every case(vs. interoperatbility standards)((see Amazon communication via API's only))
+
+
+QUESTION: What are the most important (#1 or #2) for DoD
+* Engineers are very smart -- but if the policy is pushing us
+** Fallacy: I need to be "good at _____" (sysml, process, etc.) --  but you need to be fully expert in all
+*** if enforced 
+
+[Paul A.]
+* NEED reference architecture!
+** Gov't needs to define this!! (e.g., what data, what is the digital twin) -- and give it 
+[Mark Kassan]
+* You are running TOO slow, when the new-hires are leading your company
+[Paul A]
+* Model validation -- need a method to accreditate the output
+[Mark Kassan]
+** Perceived Risk: people are threatening that the industry will NOT accept the accreditation
+*** Experts need to know how to 'put it together'
+
+[Chris Collins]
+The gov't does NOT incentivise (and we CANNOT do it piecemeal!)
+** ensure resources and can accomidate the failures
+
+[Paul A.]
+Pre-prepared -- question: MBSE is enabling software, and these are embedded modules
+Leverage what has been built, to leverage it in the model, which 
+NOT everything is modelable -- BUT the parametric data can be captured!
+
+[Mark Kassan]
+Basic of agile -- are all the skills on the team?
+* e.g., you need AI POC -- what level? (Took a class, is a SME/Expert in Industry)
+** Put the expert on the team -- everyone learns
+
+[Chris Collins]
+Evolving and Adapting systems:
+production to a point, then 
+Systems that are deployed -- how to collect data? How to pull back system to gather new data? Training events as means to gather data?
+
+QUESTION: Workforce Development?
+Industry and Academia
+[David ]
+NWC -- few problems and methods to address digital transformation -- there's a LARGE quanity of people that "this way has always worked" (<--- TARGET of education, to improve effeiceny and devlivery of capes to the warfighter)
+** Solution involves people at a CENTER 
+** NOT A ONE and done -- it has to be continous (get the early adopters, then the "wait and see" people -- to help build momentum)
+* Need to build education -- for tools and w/ Industry
+** need enterprise from AFMC
+
+[Dr. Hobson]
+DoD Workforce Intitives
+* Getting survey completed to ID what we have/what we know -- to drive/ID needs for education and opportunities to "get up to speed"
+* They are getting 

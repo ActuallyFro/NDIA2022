@@ -1,0 +1,90 @@
+Deputy 
+
+Dr. Sandra Hobson -- 
+Example: https://www.dote.osd.mil/News/What-DOT-Es-Saying/Saying-Display/Article/3021152/dr-sandra-hobson-how-is-te-transforming-to-adquately-assess-dod-systems-in-comp/
+
+Opening Comments
+Deputy Director for Strategic Initiatives and Technology
+Office of SecDef
+
+Embracing Digital Technologoes to Achieve T&E at Scale and Speed
+
+CO-PILOT ADD:
+```
+The Department of Defense (DoD) is in the midst of a transformational shift in how it conducts testing and evaluation (T&E). The DoD is moving from a traditional, labor-intensive, and time-consuming approach to a more agile, data-driven, and automated approach. This shift is being driven by the need to rapidly assess the performance of new and emerging technologies and systems, and to do so at scale. The DoD is embracing digital technologies to achieve T&E at scale and speed.
+```
+
+Seeking Speed of Relevance/Speed of Need
+* Given the requirements, advancements, and distruptors -- the question becomes: what does the T&E community need to do/shift/changes to gain Success?
+
+Three Things by Mr. () -- the former director
+1. Left community with S&T Strategy
+1. 
+
+RE-algined T&E -- focused on Innovation, Accelleration, 
+Software-aligned systems
+AI-systems
+Community-led solutions
+JADC2 enbabled
+Data collection/from/on operators
+Knowing that -- we 
+
+2. Indpedned Study charted -- Engineering Sciences  (12 mos)
+-- Cpability of T&E
+-- know where we are today, and endstate for the T&E Enterprise, and focus on where they need to be
+-- leverage to update the stragety (#1)
+
+3. Push to look at T&E hostically
+* Integrated T&E
+* Work with R&E -- to publish JOINT T&E (5000.89) -- outlines initial steps in collaboration
+* look at begining of Acqusition --> to end
+* Published in 2020
+* lessons learned! -- working on update
+* Updating/creating manuals/etc.
+
+== 
+MDO's, emerging technology (not USED TO in T&E )
+* AI
+* MDO's -- Multi-Domain Operations
+
+Creating ways to be responsive, and leverage techonlogies that are currently out/in industry
+
+Intent: Transform T&E to enable the worlds most capable warfighting systems at the speed of need
+* LED to 5 KEY PILLARs* Attributes are in the NDS
+* We want to test the way we fight
+* Old: one-at-a-time, so how do we position/enable how we fight
+** Infrastructure?
+** TTPs?
+** Desired Enstate
+** Training, Mission Planning (sp)
+
+Few inittiaves USD R&E -- ID needs and infrastructure 
+ --> NEED Digital Egnieering (virtual environments) that open air won't be able to support
+ Test enviroment replicates the future battlespaces
+
+1. Test the way we fight 
+2. Accelerating the delivery of weapon systems that WORK
+(We want to GO fast -- but not to sacrifice quality for speed)
+Looking to leverage DAta (issues with storage, format, locations) -- stnadardizations? Access, Seciurity, Standarfiation
+-- HOW to enable "near real-time" analysis (know what the cost is)
+-- What tools enable us to leverage the DAta collected? (LOTS of data -- how do we take that, and infer the operational perforamnce -- to enable the NEXT phase of testing, but NOT duplicate what was already tested)
+3. Improve survivability of DoD in a constested environment (e.g., rely on automation, tools) ((and even operational effectiveness))
+4. Pioneer Weaponsystems that are able to change OVER TIME (the dynamic changes are faster than what was previously faced)
+5. Foster an agile and enfiring T&E enterprise workforce
+* Modern Software Engineering -- Data Analytics
+* Improve current skillsets
+* Recruitement and retainment of talent
+
+=== 
+AMBITIOUS strategy (and wicked hard problems!)
+Think and act like an enterprise; drop badges -- to sit down and talk about 
+T&E enterpirse issue, BUT it is within the total Acqusition Enterprise 
+How do we bring the community together?
+
+=== Call to action
+3 points
+1. to respond to shifted tjreat -- "we" must swiftly leverage adnfance tech to increase letahlity, suitabilt, resile, survivavily, agilit, and responsienvess of our fiture Joint Force
+
+2. adapative , integrated integrated _________
+
+3. MUST be empowered by continoust learning and supported

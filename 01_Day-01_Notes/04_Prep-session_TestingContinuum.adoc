@@ -1,0 +1,48 @@
+= Chris _____
+
+IT's NOT a codiencie that Dr. Hobson and him are usually together when presenting.
+
+An Idea of Promotion
+
+Test is a Continuum
+
+
+3 Attributes and 3 Enablers
+
+1. Capability and Outcome Focused RTesting
+"shifting left" on implications of cpability and target of testing objectives.
+Inittial analysis of Modeling and simulation -- to bring it to/enable the capability of Mission Engineering work
+
+Move away from cyber controls, and more to cyber resileaince
+
+2. Agile and scalable framework
+-- enables decision space 
+
+3. Enhanced Test Design
+
+Enablers:
+1. Live, Virtual, Construvie Enironment
+2. (Robust) Modee Based Environment
+3. "Digital" Workforce
+-- How do you bring skillsets and training, which is different than 
+
+Better informed
+Informed decision making
+Instead of waiting for "discrete events" -- it's a MORE interative process
+
+THIS IS NOT going to stop in "Program Domain" -- but it would extend into the Mission Engineering "side"
+
+NOT to be a heretic -- the System Enginerring V (it's VERY )
+it's methodical -- and there's no explicte tools to enable anything else
+NEW tools aim to change that and enable itertative approaches!
+
+THE V needs to collapts 
+TOP LEFT is now Mission Engineering and GAP analysis
+
+"Transdispilnary" -- not JUST multi-discplinary (with a self/own managed) -- it NOW needs to be merged 
+enables continous AND possibly simultanous
+
+A MODEL-based environment would enable the management of information/releationships/etc.
+
+This is to setup the panel discussion on the need
+
