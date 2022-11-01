@@ -1,0 +1,3 @@
+= NDIA's 25th Annual Systems & Mission Engineering Conference
+
+This is the collected presentations (Thursday) and notes from my attendance at the Systems & Mission Engineering Conference.
