@@ -75,3 +75,21 @@ Surrogates provide a black box representation of peer system vloacks for use in 
 ** "Micromodel" -- imples a SMALL way to describe a black box
 ***  this gets tricky and perialous (sp)  (the purple box on slide 12) -- a custom validation suite is creaed to confirm the system n Micromodel content is in complete alignment with tSystem n model content
 
+== USN example
+
+* "I really REALLY perfer people to be able to use the models I build ;)"
+** 
+
+== USSAF
+TWO levels of common library model -- it applies a micro model paradigm
+
+== Tailored approach for classified program
+* interesting issue: classfied
+* top level content is SAIC style 
+MIGHT be a good way to leverage micro model and acyclic approach to HELP!
+
+== Summary
+(as provided)
+
+
+[  ] Send to Mr. E in ANE
