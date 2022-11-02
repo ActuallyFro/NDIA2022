@@ -1,0 +1,56 @@
+= Systems Enginering Modernization Across the Lifecycle
+	Systems Engineering Research Center (SERC) 
+
+== Problem Statement
+* Attempted to descope from the "BROAD" level of SE is, and focuse on a tailored set/areas (which are cross-cutting)
+** Example: Mission and Reference Architectures 
+
+== Questions Used for Phase 1
+* Looked for areas in collaboration
+** and Working groups (e.g., with INCOSE and NDIA)
+
+== SEMOD FY22/23 LoE's
+* There REALLY was not a Model/DE/MBSE set of artifacts that we being leveraged for Decision Making
+* Challenge: we as a community need to rethink how we view/execute System Engineering
+
+== SEMOD Pain Points
+SE is MILESTONE driven'
+Square peg issue: we are using SE to "answer" all the milestones we already had
+Modernization 
+
+Expectation: NOT much will change -- BUT hoepfully the flowrate will increase
+
+Acqusition process is NOT well defined (there's repeats, potentially incompatable statements)
+
+* Ideally we want "how we use the data/info" -- efficeincies
+** NOT how do we answer documents
+* WE have to align information/data/etc. to the PORTFOLIO
+
+== Conceptual View: Digital Artifact Development
+* The "Artifact" is the decision (which might have a digital representation -- ex: excel table in a power point)
+
+
+== Revised Mental Model
+* Could be different reasons to execute Systems Engineering
+** Learn
+** Train
+** (Test) MEASURE
+
+* DAU horse blanket: put it in a toliet, and flush it ... that's the NEW Modernization Mental Modern
+** WE ARE NEVER going to standardize a Model in a program -- it will be an abstraction
+
+* Q: R&D / S&T addressed?
+** A: how do we capture data -- do it with 
+
+* Q: How do we get after 2025 INCOSE Pain Points
+** A: NOT answering it -- BUT are aware of it!
+
+* Fish bone -- good for Root Cause, how to show where we are going?
+** Corrective actions: Road maps and Strageties
+
+USING Value Mapping!
+
+* SEMOD -- Programs of Weapons -- where's multiple levels and cross domains?
+** A: MOSA -- IF we can expand upon this into non-acquisition programs, then great -- BUT the focuse is POR/ACAT's
+
+[ ] Show LT C T the flush!

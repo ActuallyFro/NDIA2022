@@ -1,0 +1,41 @@
+They group sought to "not just find/create policy, but take action"
+
+Tiger Team
+Contracting Tiger Team (to support 
+Interfacing Tiger Team
+Training, with DAU, they are updating a CLE
+
+Contracting RFPs -- Section L & M
+
+Criteria and Assessment -- for Team
+
+Cohesive Definitions -- with DoD and UIndustry call
+Defense STandardzation -- MOSS area on ASSIST
+Loosely collection and asset for the open standards community
+MOS Wigs (Working Groups)
+
+== Why a Guidebook
+* Scopre: NOT "just" standards and documents
+* However
+** Standards
+** Contracting
+** Prototyping and experimentation team (for APIs)
+* AIM: MOSA for /get after obselences
+* DE for Modularity!
+* Modeling Modularity
+** We have tools!
+* Systems and Policy Guidance
+** Interfaces
+** Compontents that are relied upin
+
+== Overview
+* General breakout
+** Business
+** Techincal 
+** Lexicon
+** Exemplars
+
+This is NOT a shelf pointer (may have captured the analogy wrong!)
+** COntinous update
+** Capture BEST OF Practice
+** 

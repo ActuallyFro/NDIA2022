@@ -1,0 +1,84 @@
+= Application of the Digital Thread through the Digital Engineering Framework for Integration and Inter
+
+* Shared Parameters ACROSS domains!
+* How do we deal with that?
+* What about Tool-to-Tool
+* IT'S BRITTLE -- updating one, can break the other
+* Need Knowledge and Technical Perspective
+* Quick Web app -- vs. a "2 min to load, MAssive Engineering Tool"
+
+How can we answer connecting tools
+To enable an authoritative source of truth -- NOT
+Start: Framework
+
+DEFII Framework
+* Ontology Aligned Data
+** Represents reality
+** Enables Taxonomy
+* Formal Mathematical Logic enabled through Formal Reasoning
+** Having the Ontology enable inference (e.g., one node defines parent children relationships; however, you could ONLY list via children relationships, which you can infer a "grandparent/parent" relationship -- even though it was NOT explictly define)
+
+DEFII using Semantic Web Technology Stack
+Enables
+Ontology Aligned 
+Take tool specific data, and placing it into 
+It does NOT necessarily need bi-directional, but there is tool data that is the "top" ... going down
+
+SysML tool can can be used to tag data -- and BY tagging it in the model will then enable "pulling into" the ontology
+
+This exposes Ontology align data can be send to other places (e.g., Pyhton, Matlab, etc. -- relevant external tools)
+
+== Model Interface Specification Diagram (MISD)
+* Using SysML -- configure an interface
+** Packaging interface to group information
+** Based on Matt Cilli's approach to Assessment Flows
+* Creates tool agnostic interface
+* It's the bridge betwen ontolog
+* Parametric Diagram leverated 
+* It's ALIGNED to a Model
+* This allows 
+
+== Assessment Flow Diagram
+Several Models that interoperate
+Then a top level look can enable associations and give the ability to create a digital thread
+
+NOT NEW -- Nasa was creating custom Stereotypes to Model systems
+
+* Ontologies are not all-or-nothing
+** "by their very nature" -- they are extensible
+
+= 
+AFD enables an explict definition
+"starts looking like a directed graph"
+
+* How we can implement/access -- RESR API Service
+** thru Specified Model Interface
+** In software engineering -- it's "pretty ubiqitous"
+** REST to push and pull
+
+* This is NOT to ensure some interfect is provided to a tool
+* It 
+
+== Digital Thread
+Team Work Cloud (TWC) from Cameo
+SWT - Semantic Web Suite
+-- SPARQL - similar to MySQL queries
+
+* Not Accessible thru SysML -- but through the Triple Store
+** Ontology aligned store
+** Mostly used: GraphDB, (Sponsored R&D have used: StarDog, Neo4J)
+** Becomes the authoritate as truth
+** VIEW 
+
+
+"What does a well formed systems model look like" <-- focus of his PhD research.
+
+FULL Usecase: is NDA
+* Framework is OPEN
+* 
+
+All the parameters NEED to be in the SysML model -- looking at semantic expansion in 
+
+When talking Digital Threads: there's a difficulty
+
+-- SEND To Mr. B

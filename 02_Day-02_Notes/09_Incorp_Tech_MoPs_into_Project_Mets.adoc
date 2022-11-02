@@ -1,0 +1,58 @@
+= Incorporating Techincal MEasures of Oerformance into Project Metrics
+
+* Extending from Original work in 1997
+
+== Contents
+* Measuring
+* Incorporating Meachuers
+* Integrating MoPs
+* Putting it into Practice
+
+* Example: NON-traditional program -- there's NO end deliverables -- it's a teaming to integrate perdormance into 2025-2030
+** Knowing defintion of "done"
+** DO NOT explictly need Earned Value
+* But for programs with lots of Risk -- that infomration can be captured (via IMS)
+** Used as a leading edge Identifier
+* This can leverage digitized documents (e.g., DOORS)
+
+
+== Meacuring Tech Work
+KEY QUESTION: What defines DONE
+* What are the framing assumptions (via Goals and objectives)
+** Provides Feedback loop
+** CAN ID if we've exceeded the framing assumptions
+
+== Key Elements
+* MUST ID KPPs, MoPs, and MoEs 
+** Each tracks a different aspect OF the techincal aspects
+** Drives a time-phased plan
+*** Id's progress 
+*** Range of acceptable outcomes that are RISK derived
+
+== Performance vs. Effectiveness
+* Programs that have large FOCUS on Techincal Performance -- 
+
+== Practical Processes and Outputs
+* WBS Dictionary -- bring 
+
+=== IMP
+* first STEP -- lay down IMP
+* Event, Accomplishment, and Criteria
+
+--> ENABLES the developement of the IMS
+* created via the IMP process
+
+== Develop the Plans and Scheulde to Reach 
+USE of democratized DAta -- for business Intelligence
+
+* Techincal Measurement or Perfroamnce Plan
+** Provide the time- or eve-based plan of anticipated (and actual) achievem of techincal parameters
+
+* Elements of Measurement (list)
+
+USING IMS's to ensure/track when time-to-market will be hit
+
+
+== Create a Technical Measure or Performance Plan - The INCOSE model
+* "everything in the universe is a sequence of probabilities with limits of freewill (bounded)"
+

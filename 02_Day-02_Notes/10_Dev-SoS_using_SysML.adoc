@@ -1,0 +1,77 @@
+= Method for Developing SoS Architectures Using SysML Model Federation
+Chris
+
+== Customers are calling for DE for Systems Develpoment
+
+MBSE 1.0 -- PICTURES
+MBSE 2.0 -- DATA focused!
+
+* Tools and approaches are NOT necessarily apporachable
+
+== Problem Statement
+* Essential challenge: connectivity
+** Multiple indepdent entities, which mostly
+* Multple PARTS describe the TOTAL solution
+
+== Types od SoS applicable for federation
+* Managerial and Operational elements
+
+* Managerial Independent
+** They are consitutent
+** BUT are complex enough to have thiwer own model
+* COMBAT systems are a good example 
+** Senors, Weapons, Organizations, Total Integration 
+** This "simple" out line can be VERY challenging
+
+== Approaches of the Past
+* Develope Indpendent architecture models -- we are building DIFFERENT things, but might have commonablities (share data, interfaces)
+** Systems-of-Systems: PEOPLE in the gray matter are connecting dots
+* Integrated Architecture Model
+** ONE MODEL to rule them all!
+** FLEXIBILITY is lost!
+** DIFFICULT to integrate deltas and changes
+** Likely HARD to combine muilt-models
+* Develope SoS Model using a FRAMEWORK
+** DoDAF
+** MODAF
+** UPDM
+** BUT when you do the models -- nothing is enforced -- Frameworks AREN'T Maintained -- it's an indpendedent model
+** Can OFTEN create a CHECK list mentality
+*** Sometimes it's a neccesary evil
+
+== Suggestion! SysML federation for drective modeling -- as a federatioed appraoach
+* Pick your tool! Cameo Rhapsody
+* Binding content in a COMMON Library that can be leveraged by ALL
+** Loosely copuled 
+** Content can be leveraged by 
+** Ensures that the Systems of Systems contect stays updated/relvant
+
+* RELLAY important -- there's an asycilic nature (non-cycle) of the graph
+
+== Foundations of the approach 
+-- Login-walled
+
+== Applicable SysML content included with Federation
+SoS Behavioral Content - Behavior, Logical, Physical
+
+== Surrogates used as a substitue for adjacent system blocks
+Surrogates provide a black box representation of peer system vloacks for use in OTHER peer models
+
+* Concepts: we don't want a BUNCH of cross-mounting (causing a CYCLE)
+** 1 Million cycles/dependecy -- that have a REAL WORLD impact on performance
+* Through realization (and model validation) surrogates are aligned wth their system blocks
+* Able to check for:
+** missing ports
+** mistyped ports
+** mismatched conjugations
+
+== Realization as the cross-model key
+* ALL three pictures show the SAME thing (interface)
+** without validation (and relazation relationships)
+*** validation rules can check message signals 
+
+== Overcoming style non-compliance and protecting data
+* talk to 5 people -- get 6 WAYS to build a model
+** "Micromodel" -- imples a SMALL way to describe a black box
+***  this gets tricky and perialous (sp)  (the purple box on slide 12) -- a custom validation suite is creaed to confirm the system n Micromodel content is in complete alignment with tSystem n model content
+
