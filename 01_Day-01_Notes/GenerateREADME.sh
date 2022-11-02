@@ -10,8 +10,8 @@ for file in *.adoc; do
     # get two digit number from file name
     num=$(echo $file | grep -oE '[0-9]{2}')
 
-    echo "$num. Notes Title: \`"$title"\`">> $outFile
-    echo "link:$file[$title]" >> $outFile
+    echo "$num. \`"$title"\`">> $outFile
+    echo "link:$file[(Link1: Session Notes)]" >> $outFile
 
     # echo "[DEBUG] Looking for: $slidesPDF"
     if [ -f "$num"_*.pdf ]; then
@@ -19,7 +19,7 @@ for file in *.adoc; do
       slidesPDF=$(ls $num*.pdf)
 
       # echo "[DEBUG] PDF/slides ($slidesPDF) MATCH FOUND for $title"
-      echo "link:$slidesPDF[PDF]" >> $outFile
+      echo "link:$slidesPDF[ -- (Link 2: Slides)]" >> $outFile
     fi
  
     echo "" >> $outFile

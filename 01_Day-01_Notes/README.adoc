@@ -1,37 +1,37 @@
 = Day 01 Notes
-00. Notes Title: `Pre-Conference Notes`
-link:00_Pre-kickoff_notes.adoc[Pre-Conference Notes]
+00. `Pre-Conference Notes`
+link:00_Pre-kickoff_notes.adoc[(Link1: Session Notes)]
 
-01. Notes Title: `Quick Notes before Keynote`
-link:01_Kick-off.adoc[Quick Notes before Keynote]
+01. `Quick Notes before Keynote`
+link:01_Kick-off.adoc[(Link1: Session Notes)]
 
-02. Notes Title: `Key Note Speaker`
-link:02_Keynote.adoc[Key Note Speaker]
+02. `Key Note Speaker`
+link:02_Keynote.adoc[(Link1: Session Notes)]
 
-03. Notes Title: `Prep-session for T&E Panel `
-link:03_Prep-session_Panel_TestAndEval.adoc[Prep-session for T&E Panel ]
+03. `Prep-session for T&E Panel `
+link:03_Prep-session_Panel_TestAndEval.adoc[(Link1: Session Notes)]
 
-04. Notes Title: `T&E with Chris Collins`
-link:04_Prep-session_TestingContinuum.adoc[T&E with Chris Collins]
+04. `T&E with Chris Collins`
+link:04_Prep-session_TestingContinuum.adoc[(Link1: Session Notes)]
 
-05. Notes Title: `Test & Evaluation (T&E) Panel`
-link:05_TandE_Panel.adoc[Test & Evaluation (T&E) Panel]
+05. `Test & Evaluation (T&E) Panel`
+link:05_TandE_Panel.adoc[(Link1: Session Notes)]
 
-06. Notes Title: `Mission Engineering`
-link:06_ME_and_the_DAF_Operational_Imperatives.adoc[Mission Engineering]
-link:06_Mission-Engineering_and_DAF_Operational_Imperatives_Dr._Tim_Grayson.pdf[PDF]
+06. `Mission Engineering`
+link:06_ME_and_the_DAF_Operational_Imperatives.adoc[(Link1: Session Notes)]
+link:06_Mission-Engineering_and_DAF_Operational_Imperatives_Dr._Tim_Grayson.pdf[ -- (Link 2: Slides)]
 
-07. Notes Title: `Systems Engineering Panel `
-link:07_Systems-Engineering_Panel.adoc[Systems Engineering Panel ]
+07. `Systems Engineering Panel `
+link:07_Systems-Engineering_Panel.adoc[(Link1: Session Notes)]
 
-08. Notes Title: `Digital Engineering Strategy for DHS`
-link:08_DHS_DE_Strategy.adoc[Digital Engineering Strategy for DHS]
-link:08_DHS-DE-Strategy_Nebiyeloul-Kifle.pdf[PDF]
+08. `Digital Engineering Strategy for DHS`
+link:08_DHS_DE_Strategy.adoc[(Link1: Session Notes)]
+link:08_DHS-DE-Strategy_Nebiyeloul-Kifle.pdf[ -- (Link 2: Slides)]
 
-09. Notes Title: `Program Protection and Secure Cyber Resilient Engineering Initiatives`
-link:09_ProgramProtectionPlan.adoc[Program Protection and Secure Cyber Resilient Engineering Initiatives]
-link:09_Program_protection_secure-cyber-inits_Reed.pdf[PDF]
+09. `Program Protection and Secure Cyber Resilient Engineering Initiatives`
+link:09_ProgramProtectionPlan.adoc[(Link1: Session Notes)]
+link:09_Program_protection_secure-cyber-inits_Reed.pdf[ -- (Link 2: Slides)]
 
-10. Notes Title: `Joint Federated Assurance`
-link:10_Joint-Federated_Assurance_Center.adoc[Joint Federated Assurance]
+10. `Joint Federated Assurance`
+link:10_Joint-Federated_Assurance_Center.adoc[(Link1: Session Notes)]
 
