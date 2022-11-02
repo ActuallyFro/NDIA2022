@@ -1,20 +1,20 @@
 = Day 02 Notes
-01. Session Notes for: `Software Assurance Roadmap`
-link:01_Software-Assurance-Roadmap.adoc[Software Assurance Roadmap]
+01. `Software Assurance Roadmap`
+link:01_Software-Assurance-Roadmap.adoc[(Link1: Session Notes)]
 
-02. Session Notes for: `Sofware assurance thru DevSecOps`
-link:02_SwA-thru_DevSecOps.adoc[Sofware assurance thru DevSecOps]
+02. `Sofware assurance thru DevSecOps`
+link:02_SwA-thru_DevSecOps.adoc[(Link1: Session Notes)]
 link:02_SwA-DevSecOps_Bradley_Lanford.pdf[ -- (Link 2: Slides)]
 
-03. Session Notes for: `Design Code Basis for Secure Cyber Reslient Engieering`
-link:03_Secure-Cyber-Reslient-Engineering.adoc[Design Code Basis for Secure Cyber Reslient Engieering]
+03. `Design Code Basis for Secure Cyber Reslient Engieering`
+link:03_Secure-Cyber-Reslient-Engineering.adoc[(Link1: Session Notes)]
 link:03_SwA_RSCE_Reed.pdf[ -- (Link 2: Slides)]
 
-04. Session Notes for: `Achieving MOSA Benefits A Decision Framework For Choosing MOSA Metrics`
-link:04_MOSA-Benefits.adoc[Achieving MOSA Benefits A Decision Framework For Choosing MOSA Metrics]
+04. `Achieving MOSA Benefits A Decision Framework For Choosing MOSA Metrics`
+link:04_MOSA-Benefits.adoc[(Link1: Session Notes)]
 link:04_MOSA_Benefits_Steve_Henry.pdf[ -- (Link 2: Slides)]
 
-05. Session Notes for: `Digital Engienrring Tool Selection Criteria`
-link:05_DE_Tool-Selection.adoc[Digital Engienrring Tool Selection Criteria]
+05. `Digital Engienrring Tool Selection Criteria`
+link:05_DE_Tool-Selection.adoc[(Link1: Session Notes)]
 link:05_DE_Tool_Selection-Criteria_Frank_Salvatore.pdf[ -- (Link 2: Slides)]
 
