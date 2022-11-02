@@ -1,0 +1,144 @@
+= Software Assurance Roadmap
+
+Mr. Steve Grice
+Techincal Director, Software Assurance
+
+* This is PLAN -- you make it so you have something to deviate from ;)
+
+== Software Sssurance
+* Defined: SwA -- PL112-239 (2013) -- in NDAA for 2013's Section 933
+** Problems and difficulties -- "level of cofidence" -- INTENT: Software is working 'as intended', free of vulnerabilities
+*** Free in Dev of CODE
+*** Architectural designs are remidiated/fixed
+*** This highlights the challenge of dev'ing free of vulns (e.g., given/needed a well trained workforce)
+
+=== Activities to date:
+* Dev of polices
+* JFAC (see Day 1 #10)
+* JFAC Technical Working Group
+** Engage from the techincal side!
+** Every otherweek
+** See what's coming "out of the labs"
+** gives awareness/up and coming issues 
+* DoD/National Nucear Security Admin
+* Partnerships w/ DHA, NNSA, NSA, and Industry (thru NDIA)
+** Sharing: opened eyes to possibilities (e.g., NSA) Assurance Levels help educate community
+
+== Strategic Vision
+* Impotus this year -- in FEB '22 (1 Feb 22) Ms. Heidi Shyu -- "Technology Vision for an Era of Competition"
+** Are we doing hte right thing?
+** Creating the workforce of tomorrow?
+
+*Technology Stratgey Pillars
+** Mission Focus
+** Foundation Building
+** Critical Technology Areas
+
+=== Critical Technology Areas
+* Effecitive Adption Areas
+** Trusted AI andAutnomy
+** Microelectrons
+** ADvanced Computing & Software
+* Seed Areas of Emerging Opportinity
+** Biotech
+** Quantum Science
+** Future Gneration Wireless Tech
+* Defense-sepcific 
+** Directed Energy
+** Hyper sonics
+
+* Notes
+** White paper is out for SwA tools "tool" -- gaps, finding ways to invest in better areas/
+** We CANNOT wait to "see what happens", then apply the policy/TTPS/paths forward -- so they are reaching out/getting ahead of the curve (e.g., Quantum)
+*** BEst practicies in Coding
+
+=== Current, Ongoing, and RElevant Topics
+* Sofware Bill of Materials (SBOM)
+** A primary focus to capture -- whitepapers
+** WO 14028 "Improiving nat's cyber
+** FY __ NDAA 1655
+* DevSecOps
+* Exsiting Tool Maturation
+** Coor with vendors, S&T orgs,
+** PD Cuber and LLNL collab
+* Software Assurance Metrics (METRICS THAT MATTER!)
+** Dev of metricis to support policy  and guidance implementation
+** Nuclear Enterprise Assurance Workshop
+
+== SwA Roadmap
+* Plan for FY2022
+* Focus Areas FY23 - FY25
+* Outcomes FY26-30
+
+Protecting Emerg Tech
+Mat Exist Capes
+Securing SW Dev
+Advacing hte State of Practice
+
+== SwA Rm -- Emerging Technologies
+* Emdedded SW - Limited Capes to analyze em
+** Included FPGAS (e.g., Xlinx mentioned)
+** NSA leading HW/SW assurance Pilot
+** Looking chip level  
+* AI & Autonomy -- Limited understanding of oim]pacts and protections
+* Quantum -- Limited understanding of (missed)
+
+== Maturing Exiting Caps
+* SWA Toolset -- Programs do NOT have access to SwA tools to inform decision making 
+** Look at JFAC's tool catalog (aim to have it on the Portal)
+** Lawernce Livermore == LL?
+*** Did studies
+*** have 350+ 
+**** Characterics
+**** Features
+*** Aim: share to BETTER INFORM community
+* Workforce -- Existing expertise is limited and DoD lacks training for guture frowth
+** This is reucrring things -- "oh they were trained 10 years ago, we're set!" (false!)
+** Sofware Assurance Credentialing Program
+** Posturing to help maintain certification
+* Metrics -- Lack of metrics to inform continous imoprovies of SwA Activities
+
+== Securing Sw Dev
+* SBOM -- prgrams do NOT have processies , tool, or guidance to support SBOM req's
+** BAck in the day: Version Description Documents were made "and were set"
+*** Future: make it Machine Readible version -- THEN this can be leveraged to ID and share impact based on vulnerabilities 
+** Defining NTIA, minimum essential elements
+** It can provide a WEALTH of knowledge to help enable SwA TTPs in the future
+* DevSecOps -- guidance LACKS sofware assurance (Fro: I like -- but BOLD! :D)
+* Open Source -- Lack of meterics to inform continous imporvements of SwA activities
+** DEv of Secure Open Source REccomendations REport (present?)
+** NEA Worksop Aussraince Metrics tRack
+** Short term: DoD Assurance Metrics Pilot
+** Longterm: Define core set of metrics
+** Examples: Log4j, OpenSSL
+*** FUN FACT: New OpenSSL vulmn equivalent to HEARTBLEED
+
+
+== Advancing the State of Practices
+* Partnerships -- DoD IS NOT fully aligned with UGA on assurance apporach and sharing
+** New workship and DoDA/NNSA SwA CoP
+** Devel JOINT road made
+** Goal: ALign DHS S&T / NSA & NNSA efforts
+* SwA Platform (JFAC) -- SwA REsources have limited access to expertise and tools requeired
+* S&T Innovation -- lack awaresness of and infrastracute to transition assrance S&T
+
+== Summary
+* What movitated us? Ms. Shyu's memo
+* DoD has seen GREAT success with SwA tools, plolices, instructions and guielines -- BUT landscape is ALWAYS changing
+* Dod is lookging for INPUT and FEEDBACK from NDIA
+
+Questions
+
+
+* Q1: Timeline for tool assessment and selection process?
+** A: this is algined to modernized JFAC portal
+*** Tools basedlined in JFAC discussion
+*** Looked at YEARLY
+*** JFAC team then uses it for investements/paths forward
+* Q2: Expand on: Integrated sensing and office
+** This was JUST started
+* Q3: Vision for Trusted AI and Autonomy?
+** A: We just started! :')
+*** BUT core work is with JFAC team! (minimum the sharing via JFAC)
+
+
