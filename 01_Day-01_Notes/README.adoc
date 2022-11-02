@@ -1,37 +1,37 @@
 = Day 01 Notes
-Notes Title: `Pre-Conference Notes`
+00. Notes Title: `Pre-Conference Notes`
 link:00_Pre-kickoff_notes.adoc[Pre-Conference Notes]
 
-Notes Title: `Quick Notes before Keynote`
+01. Notes Title: `Quick Notes before Keynote`
 link:01_Kick-off.adoc[Quick Notes before Keynote]
 
-Notes Title: `Key Note Speaker`
+02. Notes Title: `Key Note Speaker`
 link:02_Keynote.adoc[Key Note Speaker]
 
-Notes Title: `Prep-session for T&E Panel `
+03. Notes Title: `Prep-session for T&E Panel `
 link:03_Prep-session_Panel_TestAndEval.adoc[Prep-session for T&E Panel ]
 
-Notes Title: `T&E with Chris Collins`
+04. Notes Title: `T&E with Chris Collins`
 link:04_Prep-session_TestingContinuum.adoc[T&E with Chris Collins]
 
-Notes Title: `Test & Evaluation (T&E) Panel`
+05. Notes Title: `Test & Evaluation (T&E) Panel`
 link:05_TandE_Panel.adoc[Test & Evaluation (T&E) Panel]
 
-Notes Title: `Mission Engineering`
+06. Notes Title: `Mission Engineering`
 link:06_ME_and_the_DAF_Operational_Imperatives.adoc[Mission Engineering]
 link:06_Mission-Engineering_and_DAF_Operational_Imperatives_Dr._Tim_Grayson.pdf[PDF]
 
-Notes Title: `Systems Engineering Panel `
+07. Notes Title: `Systems Engineering Panel `
 link:07_Systems-Engineering_Panel.adoc[Systems Engineering Panel ]
 
-Notes Title: `Digital Engineering Strategy for DHS`
+08. Notes Title: `Digital Engineering Strategy for DHS`
 link:08_DHS_DE_Strategy.adoc[Digital Engineering Strategy for DHS]
 link:08_DHS-DE-Strategy_Nebiyeloul-Kifle.pdf[PDF]
 
-Notes Title: `Program Protection and Secure Cyber Resilient Engineering Initiatives`
+09. Notes Title: `Program Protection and Secure Cyber Resilient Engineering Initiatives`
 link:09_ProgramProtectionPlan.adoc[Program Protection and Secure Cyber Resilient Engineering Initiatives]
 link:09_Program_protection_secure-cyber-inits_Reed.pdf[PDF]
 
-Notes Title: `Joint Federated Assurance`
+10. Notes Title: `Joint Federated Assurance`
 link:10_Joint-Federated_Assurance_Center.adoc[Joint Federated Assurance]
 
