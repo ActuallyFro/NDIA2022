@@ -1,0 +1,134 @@
+= Sofware assurance thru DevSecOps
+Bradley Lanford
+SME on SwA and SW
+Leads senior eng team 
+
+* Warno: STARTED with high hopes IN ABSTRACT
+** BUT this is highlights
+
+== Summary (SwA in DevSecOps)
+* DoD tranisiton 
+** 30 orgs!
+* DoD 5000.83 -- "TEch and PP to maintain TEch Adv"
+* DevSecOPs capes mature -- and we ALL move -- BUT  must ensure the implementation
+** cirtical components
+** move toward automation
+
+== SwA in DEvSecOps
+* Some PAST years examples
+* It's a pick-up game
+
+* Alignment of SwA 
+** Early LOOK with DoD REf Arch was coming out -- so SwA was aligned!
+** Automation to INCREASE assurance
+** This ENABLES DEvSecOps MORE RAPIDLY
+** WHAT where artifacts were able to be generated?
+** Dashboard this info to enable 
+* Completion of SwA in DevSecOps whitepaper "commpuity of practices 
+** Aim to revisit the white paper
+* Dev of DAU WSA 002 - DEvSecOps for the DoD Security Focus (DSF)
+
+== SwA Assurance Gaps 2020
+* "the EXACT slide" years ago -- STILL applicable
+
+* Hardened Container SRG
+** JFAC Techical WG on hardening
+** ID what the more rigiours measures we are following
+* Assurance Baseline
+** Know the baseline, BUT find critical items needed
+* Sw Threat modeling
+** CAN be done early in programs, but kinda lacking in SwA
+** Not many tools
+** When looking on DE community: HOW do we automate it?
+* Data Strategy
+** LOTS of data is produced -- applies ti SwA space
+* Risk Catagorization
+** Prioritization and autmoation to MOVE OUT FASTER on remiediation
+* Open Source
+** Redhat++ (navy and AF efforts)
+** Looking at it on R&E
+
+== Scope of DEvSecOps
+* Highlight of 30+ factories!
+* Implication of different (100s) pipelines (new or using)
+* THOUSANDS of contracts -- causing deviation
+
+==
+
+== Relation to Indistry
+* Highlight there are many linkages
+* BUT there's a wide variety!
+** One Vendor might be making application layer only
+** Some vendors might bring their OWN infrastructure
+** THIS CHANGES Security baseline/posture!
+* Knowing things (e.g., infrastructure as code) helps inform the (need) for security posture
+** what do inheirt vs. what EXTRA items are needed
+
+== CI/CD Pipeline
+THIS implies STRIGHT TO static analysis
+
+Point: layout the pipeline, and talk about what can be done "at each gate"
+
+== SwA
+* There are GREAT tools to enable automation 
+** and the TOOLS might focus on function of the software -- BUT we can/could leverage for cyber/assurance needs!
+
+== The REAL Tool Story
+* Case: "Hey ... you should being SwA!; answer: 'what's that?' "
+** So boiling it down -- they find a tool for static and dynamic analysis
+** 
+* 
+* Vuln scanning tools: MOST common
+** Java Static Analysis -- that's 10 tools
+*** you'd THINK it'd be more; and freely
+** BUT as you go down the list -- it shrink
+** Custom created tools in some cases (e.g., Go and ADA)
+** First LOOK: it's ABUNDANT!
+*** BUT tools scan for different things
+*** can quickly get down to just a couple of choices
+** THUS the pipeline 
+*** predicated on knowing what/how to react to finding
+(LLNA Levi Roy? -- Author?)
+
+== Level of Assurance
+* Capes are brought from MANY places (or vendors)
+* Types of Sw and Languages
+** impacts/drives need for 
+** This drives criticality need
+*** Maybe NOT ALL tools agsint ALL code -- but the critical elements
+** Diferrent levels of rigor
+*** 10K's vs. 100K's 
+* System integration lab
+** what WAS pre-prodiction -- you instead could bring more HW/digital twins
+*** provides same inputs and outputs
+*** more rigous testing, ideally NOT impacting speed (given automation)
+
+== PPP O&G SwA Table Mapping to DSO
+* DRASTIC CHANGES EXPECTED from the 2011 Table to what's being updated in 2022
+* Currently 8 tables
+* PUTTING TOGETHER DIDS!
+** across the Lifecycle
+** what data comes out of the pipline, and how that transfers to 
+** 
+
+=== Table Reviews
+* MORE TOOLS with automation (with even more types)
+* Automated artifacts are made -- but looking at how to answer:
+** how are we mitigating this?
+** What manual proccesses are needed?
+* Microservices can enable/waive certain requirements
+** Ex: Rust has "built in" protections based on it's design, versus something like C, so can LESS testing
+
+== Sumamry
+* 
+* Acquisiton Process and contractual relationship to industry partners create boundaries NOT present in commerical sw dev --
+* Welcome feedback, since this is NOT 
+
+Question: Levels of Assurance
+
+
+My: 
+1) No-code -- 
+2) DIDS driving Contract Data Rights
+3) Does this approach drive specific needs for Dev approaches; TDD is great/would enabled CD/CI pipeline -- COSTLY! Programs avoid it! 
+
