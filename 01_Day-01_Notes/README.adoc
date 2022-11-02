@@ -21,3 +21,17 @@ Notes Title: `Mission Engineering`
 link:06_ME_and_the_DAF_Operational_Imperatives.adoc[Mission Engineering]
 link:06_Mission-Engineering_and_DAF_Operational_Imperatives_Dr._Tim_Grayson.pdf[PDF]
 
+Notes Title: `Systems Engineering Panel `
+link:07_Systems-Engineering_Panel.adoc[Systems Engineering Panel ]
+
+Notes Title: `Digital Engineering Strategy for DHS`
+link:08_DHS_DE_Strategy.adoc[Digital Engineering Strategy for DHS]
+link:08_DHS-DE-Strategy_Nebiyeloul-Kifle.pdf[PDF]
+
+Notes Title: `Program Protection and Secure Cyber Resilient Engineering Initiatives`
+link:09_ProgramProtectionPlan.adoc[Program Protection and Secure Cyber Resilient Engineering Initiatives]
+link:09_Program_protection_secure-cyber-inits_Reed.pdf[PDF]
+
+Notes Title: `Joint Federated Assurance`
+link:10_Joint-Federated_Assurance_Center.adoc[Joint Federated Assurance]
+
