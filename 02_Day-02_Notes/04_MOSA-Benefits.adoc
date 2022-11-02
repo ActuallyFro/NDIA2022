@@ -1,0 +1,113 @@
+= Achieving MOSA Benefits A Decision Framework For Choosing MOSA Metrics
+
+Subtitle: What questions should we be asking?
+
+How do you know success?
+
+Mr. (Dr.?) Steve Harvey
+
+Book: leading with questions
+
+Change beings 
+
+Program Planning
+Measures/Control
+
+"What gets measured, gets done" --> "What gets measured, and acted upon, gets done" (correction from his son)
+
+OSD Site: DoD MOSA -- things to think about in the MOSA Ecosystem
+
+== How Do We Achieve MOSA Success
+How do we integration:
+MOSA tenants: (arrows 
+
+
+BUSINESS OUTCOMES -- that's what we measure -- in the MOSA Benefits
+
+== Measurement Slection/Tailoring Lessons Learned
+* "Why does the Pentagon want this?
+* Bottomline -- 4 goals in working with stakeholders + design/engineering team
+
+== Sample MOSA Benefit MEasurement Use Cases
+* Each will be covered
+* Osprey Nest (NOT THE AIRPLANE)
+** Ft Beflord
+* Example: Modular Design -- need a Forrest, need twigs, need a location 
+** "Rich ones" up on cable"
+** Tech refresh
+** Benefit: raise the NEXT generation of chicks
+
+== How do we measure the Benefits of the SW REsue
+* NOT jsut the code
+** Models
+** Reuse of design (studies show 27% reduction)
+** Other metrics
+
+= Global Air Traffic Managment (GATM) Mission Needs and MOSA Business Cases
+* DEFINED requirements
+* 
+
+=== GATM System-of-sytem SPO CONOPS
+* There can be organizational Enabling Processes
+** Cost savings
+** Tech refresh (a little as 24 hours)
+*** Implies spares/parts
+* Underpinning MOSA tenents enabled -- since NOT ALL items/considerations are technical
+
+=== What were the GATM Stakeholder MOSA Success Metrics
+
+=== SE Life Cycle
+* How do you use SE AND Agile at the SAME time!?
+* 15-288.2 -- What are the MOSA
+* Looking across 
+** Mission Engineering Analysis intersection
+** CID REport -- 11 or 12 
+** What's important
+** What's the risk
+
+== Archtiecture
+* At PDR? SDR?
+* MAKE it a REQUIREMENT! 
+** Army is doing it right
+** Question how much MBSE are we doing?
+** Level of modularity? Support replacements plan? 
+* MOSA and Operation Capability 
+
+== System Analysis
+How do you compete?
+** Is it continued competition? Is it just a single event/part?
+* Some other core questions:
+** Incentives?
+** Opportunites?
+** HAVING both enables an ability to compete
+
+== Interoperability
+* Meterics need to be chose based on risk/concerns/how you plan to manage
+
+== MOSA Metrics Selection Process
+* Increasing competition
+** How long?
+** Objectives?
+* TOP is resources
+* BOTTOM: links of/to defined metrics
+** NOT everything is measured
+** DON'T reinvent the wheel
+
+== Current Status - MOSA Metrics 
+* Dr. Raygan is ALSO on this team
+* Putting together a SUPERSET of meterics -- and provide it to the comunity
+** BUT critical thinking is still needed!
+
+== Summary Chart
+GATM case
+L&M Crtieria *(suggested)
+Cost Estimating
+Sw Re-use
+
+* Question: there are different levels of progress; How do this? 
+** One size-fits-all does NOT work -- BUT know what can be rolled-up
+
+* Q2: For established metrics, is there a resource for measurement error?
+
+GITHUB COPILOT
+** Dr. Raygan: there is a resource for this -- but it's not a "one size fits all" -- it's a "one size fits most" -- and it's a "one size fits most" for a specific domain

@@ -1,0 +1,97 @@
+= Digital Engienrring Tool Selection Criteria
+
+Jeff Naratez, Emily Bak, Frank Salavartore
+
+Inherently Governmental Functions -- "I approve!"
+
+* This is A WIP!
+* this is JUST Scrutching the surface!
+** Aim to find specific criteria, to help drive DE implementors a resource
+
+== Agenda
+
+== Puprose & Scope
+DE BOK -- has 9 elements
+DE Guidebook has FUNDAMENTAL knowledge Areas
+
+* SO WHAT? -- looking to improve vendor/tool interoperability
+
+== Approach 
+
+== POAM
+* INCOSE will be the target for release in MAY
+
+== Criteria Alignment
+* semi-painful -- but looking at tDE Strategy (it's 5 goals)
+* However, extracting important facts/criteria
+** "need help to develop models" -- CAN MEAN A LOT
+*** This is the work that is still being accomplished
+** Goal 3: Technological innovation (AI, ML)
+*** To what extent does a tool enable that?
+*** Need to know -- so we can understand how it supports "your" DE ecosystem
+
+== DE Fundamentals
+* IF YOU ARE doing DE -- but not doing tese fundamental things, then you _might_ want to relook at activities to date
+* originalyl formed in 2012 (or hertigage thereof)
+* As strategy for DE came out, the team is going back to update that 
+* LATEST "v1" Feb 2021
+
+=== Established DE Fundamentals Snapshots
+* SOME are "no brainers" -- BUT aim to have clear articulation
+** Eg: support modeling and/or simulation
+** This can help encourage thinking on "what is needed for 'my' ecosystem"
+
+== DE Ecosystem REq's
+* DEBoK Link ()
+* Needs
+** Data Storage
+** Security
+`
+Question (from me) -- DAU, for example, has great "cheat sheet tools" on the Web (example: the old M-DID and NEW AAF-DID) [Question] Has the group thought about such an "interactive" capability for the planned guidance?
+
+ANSWER: (classic .. "on the next slide") de-bok.org 
+
+== Next steps
+* Look for feedback!
+* Sharing/tool stealing!
+* Any/all help is appreciated!
+* OSUD will be doing an internal review
+* INCOSE IW in the spring
+
+== Q&A Session
+* Q: AAF-DID/M-DID -- NO interactive tool yet planned
+**
+
+* Q: What scope will the level work? Bring it up to 
+** A: Enterprise, versus program/project level
+
+* Q: Open standards and Integration?
+** A: Will be considered (LOOK at "Sample Criteria - As Factors Slide" 
+
+* Q: PREVENT HOLY WARS on tools?
+** 
+
+* Q: Avoid "NOT invented here" Mentality
+
+* Q: Tool management?
+** A: It'd be great to use this information/guidance/knowledge to help decide/implement tools.
+*** There will be fights on which/how/why
+*** If you are consistent consideration of which DE decisions are made -- and enterprise to enterprise --
+*** But this is likely just guidance, and it's prescriptive but orgs can decide for themselves
+
+* Q: Integration of Data
+** A: not understanding of scope -- pushed to offline
+
+* Q: Cross-referenced agasint INCOSE tools DB?
+** No: but is planned!
+
+* Q: Data Export standards -- how does the criteria defining it?
+** Taken offline
+
+* Wieghts planned?
+
+* DTIC DeBOK -- reach out to email 
+osd.mc-alex.osud-r-e.mbx.deboksupport@mail.mil
+
+* Q: Developer tools that are NOT friendly? Planned integration
+** not enough time!
