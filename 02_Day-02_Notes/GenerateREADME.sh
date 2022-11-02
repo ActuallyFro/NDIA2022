@@ -19,7 +19,7 @@ for file in *.adoc; do
       slidesPDF=$(ls $num*.pdf)
 
       # echo "[DEBUG] PDF/slides ($slidesPDF) MATCH FOUND for $title"
-      echo "link:$slidesPDF[PDF]" >> $outFile
+      echo "link:$slidesPDF[(Slides)]" >> $outFile
     fi
  
     echo "" >> $outFile

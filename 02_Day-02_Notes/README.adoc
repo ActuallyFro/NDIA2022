@@ -4,17 +4,17 @@ link:01_Software-Assurance-Roadmap.adoc[Software Assurance Roadmap]
 
 02. Notes Title: `Sofware assurance thru DevSecOps`
 link:02_SwA-thru_DevSecOps.adoc[Sofware assurance thru DevSecOps]
-link:02_SwA-DevSecOps_Bradley_Lanford.pdf[PDF]
+link:02_SwA-DevSecOps_Bradley_Lanford.pdf[(Slides)]
 
 03. Notes Title: `Design Code Basis for Secure Cyber Reslient Engieering`
 link:03_Secure-Cyber-Reslient-Engineering.adoc[Design Code Basis for Secure Cyber Reslient Engieering]
-link:03_SwA_RSCE_Reed.pdf[PDF]
+link:03_SwA_RSCE_Reed.pdf[(Slides)]
 
 04. Notes Title: `Achieving MOSA Benefits A Decision Framework For Choosing MOSA Metrics`
 link:04_MOSA-Benefits.adoc[Achieving MOSA Benefits A Decision Framework For Choosing MOSA Metrics]
-link:04_MOSA_Benefits_Steve_Henry.pdf[PDF]
+link:04_MOSA_Benefits_Steve_Henry.pdf[(Slides)]
 
 05. Notes Title: `Digital Engienrring Tool Selection Criteria`
 link:05_DE_Tool-Selection.adoc[Digital Engienrring Tool Selection Criteria]
-link:05_DE_Tool_Selection-Criteria_Frank_Salvatore.pdf[PDF]
+link:05_DE_Tool_Selection-Criteria_Frank_Salvatore.pdf[(Slides)]
 
