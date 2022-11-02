@@ -1,6 +1,6 @@
 #!/bin/bash
 outFile="README.adoc"
-echo "= Day 01 Notes" > $outFile
+echo "= Day 02 Notes" > $outFile
 
 for file in *.adoc; do
   if [ "$file" != "$outFile" ]; then
@@ -19,7 +19,7 @@ for file in *.adoc; do
       slidesPDF=$(ls $num*.pdf)
 
       # echo "[DEBUG] PDF/slides ($slidesPDF) MATCH FOUND for $title"
-      echo "link:$slidesPDF[(Slides)]" >> $outFile
+      echo "link:$slidesPDF[ -- (Link 2: Slides)]" >> $outFile
     fi
  
     echo "" >> $outFile
