@@ -10,7 +10,7 @@ for file in *.adoc; do
     # get two digit number from file name
     num=$(echo $file | grep -oE '[0-9]{2}')
 
-    echo "$num. Notes Title: \`"$title"\`">> $outFile
+    echo "$num. Presentation Title: \`"Link 1, Session Notes: $title"\`">> $outFile
     echo "link:$file[$title]" >> $outFile
 
     # echo "[DEBUG] Looking for: $slidesPDF"
