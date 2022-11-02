@@ -18,3 +18,23 @@ link:04_MOSA_Benefits_Steve_Henry.pdf[ -- (Link 2: Slides)]
 link:05_DE_Tool-Selection.adoc[(Link1: Session Notes)]
 link:05_DE_Tool_Selection-Criteria_Frank_Salvatore.pdf[ -- (Link 2: Slides)]
 
+06. ``
+link:06_DoD_MOSA_Implementation.adoc[(Link1: Session Notes)]
+link:06_MOSA_Guidebook_Nadine_Geier.pdf[ -- (Link 2: Slides)]
+
+07. `Application of the Digital Thread through the Digital Engineering Framework for Integration and Inter`
+link:07_DE_Framework_for_InI.adoc[(Link1: Session Notes)]
+link:07_Application_Digital-Thre_thru_DE_for_InI_Daniel_Dunbar.pdf[ -- (Link 2: Slides)]
+
+08. `Systems Enginering Modernization Across the Lifecycle`
+link:08_SE_Modernization_Across_the_Lifecycle.adoc[(Link1: Session Notes)]
+link:08_SE_Modernization-Across-Lifecycle_Nadine_Geier.pdf[ -- (Link 2: Slides)]
+
+09. `Incorporating Techincal MEasures of Oerformance into Project Metrics`
+link:09_Incorp_Tech_MoPs_into_Project_Mets.adoc[(Link1: Session Notes)]
+link:09_Techincal_MoPs_into_Project-Metrics_Nick_Pisano.pdf[ -- (Link 2: Slides)]
+
+10. `Method for Developing SoS Architectures Using SysML Model Federation`
+link:10_Dev-SoS_using_SysML.adoc[(Link1: Session Notes)]
+link:10_Method-for-Dev_SoS_Archs_Using-SysML_Model-Federaion_Chris_Swickline.pdf[ -- (Link 2: Slides)]
+
