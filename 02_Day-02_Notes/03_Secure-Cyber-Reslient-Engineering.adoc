@@ -1,0 +1,74 @@
+= Design Code Basis for Secure Cyber Reslient Engieering
+* Look 
+== Agenda
+
+== Need
+* Stakeholder: "I want this cape"
+** "our job" -- ID the critieria NEEDED
+* DESIGN CODE will assist in develpoing 
+
+== History of Design Code
+* Marie Antoninette -- "there's nothing new, just what's forgotten"
+* TCSEC -- the ORANGE BOOKS
+* NSA had it's uniform guidance (see Type 1) -- lays down criteria/aspects
+** 1991 National Research Counicl "Computers at Risk and Safe Computing" (sp -- something like that)
+
+== Design Code Basis for SCRE (Concept)
+* getting after requrirements that may, or may not, have been stated
+* looking to enable to give protection to MEET 5000.83!
+
+== SCRE Design Code
+* Specifically looked at points in the 5000.83
+
+It's a security anonmaly until measured/eval'ed
+
+== Protection Nuclues
+* it's not is STRICTLY security
+* Key protection functions
+** Deliver capes -- but assuring it dows what it needs
+** Protect DATA!
+* Two core capabilities
+** Mediated Access
+** System Control 
+
+== Design Code Criteria Dev
+* 
+
+== Next Steps
+* Usable and Understandable
+
+Question: is this becoming a DID?
+
+Looking at Section L and Section M...
+WE NEED additonal DIDS and language to support the SCRE Design Code
+
+== Q&A | Open Discussion
+
+* Current guidance:
+** Relation to 800-160; v3? -- or how can we integrated it into NIST guidance
+** Systems Security Criteria (as seen in INCOSE)
+** REALLY AFTER: DATE!
+*** WORKING ON IT
+
+* Aim: how do you incoprate requirments INTO design specification
+** NIST guidance is a broad range of guidance
+** DAU Secuire REsilient Comptentcy
+** Cross domain solution -- it's to challenge they way we think about security. ID needs. etc.
+
+* There is SO MUCH information
+** 160 || 161
+** Volume 1 had a "ok" integration -- but more work and SCRE is needed
+
+* INCOSE -- SSE
+** Can we can something "as a handbook" (Desirement)
+
+* WE have "the RMF" DID (Techincal Report DID -- NOT even a specifc)
+** Ideally -- MULTIPLE (or tailorable)
+*** Tailor implies a NEED a for a Workbook
+
+* RMF is driving us, and that where's the money is going
+** "just get rid of it" is NOT the answer
+
+* Intent: a DID for EACH security speciality?
+** That's part of this difficulty!
+** ID this as a DE challenge -- and FUNCTIONAL challenge for the community
