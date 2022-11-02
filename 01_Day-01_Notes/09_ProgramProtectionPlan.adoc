@@ -1,0 +1,71 @@
+= Program Protection and Secure Cyber Resilient Engineering Initiatives
+
+== Speaker 
+
+Melinda Reed
+Director, Systems Security
+Office of Under Secretary of Defense for
+Research and Engineering
+Science and Technology Program Protection
+
+== Our Mission	
+
+== Threats to Our Mission
+* All protection mechanisms connected to Licit * Illicit Teachnology Transfrer Mechansims
+** WRT to attack surfaces
+** Interesting effects -- Paperwork Reduction Act (push out)
+** Secure Software Memo -- FAR language is being modified
+*** Industry CAN have a say!
+*** Same with DFARS
+
+== Technology and Program Protection Planning (PPP) ACross the Lifecycle
+
+Example: Systems Security Sustainment 
+
+== Systems Secuirty Mission and Priorities
+* Push on policy
+* Look as security engineering side
+
+== Technology and Program Protection to Maintain Technological Advantage
+* Discussion on Contracting and program offices -- and the impct there of 
+
+== Technology and Program Protection Guidebook
+* Guidance for DoDI 5000.83
+* PPP in DAG (chpater 9) is BROKEN OUT!
+
+== DoDI 5200.44 - Trusted Systems and Networks
+Updated based on new DoD org structure
+* related to E.O. on secure software
+
+== JFAC -
+Skipped to NEXT session!
+
+== Anti-Tamper: DoDD 5200 47E
+* Kicked off CPI working group
+
+== Timeline/laydown of capes/resources
+* Alignment to AAF
+* 
+
+== Engineering Cyber Resilient Weapon Systems Workshop Series
+* CRWSWS? or CRWS?
+** "Crews" or "Cruise"
+
+Question: 
+SBIRS -- 
+"Due Dillegence" -- it's under revision (target in May)
+* PPP - NACK (as expected)
+* S&T -- maybe
+** SBIR III (vs. I/II)
+
+== Secure Cyber Resillient Engineering Design Code
+* White Paper series!
+
+== Workforce Competency 
+* Working with DAU
+
+== Summary
+* Great value working with Industry
+* All feedback is GOOD feedback
+
+
