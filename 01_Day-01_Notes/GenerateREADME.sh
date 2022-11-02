@@ -7,11 +7,11 @@ for file in *.adoc; do
     title=$(grep -m 1 "^= " $file)
     title=${title:2}
 
-    echo "Notes Title: \`"$title"\`">> $outFile
-    echo "link:$file[$title]" >> $outFile
-
     # get two digit number from file name
     num=$(echo $file | grep -oE '[0-9]{2}')
+
+    echo "$num. Notes Title: \`"$title"\`">> $outFile
+    echo "link:$file[$title]" >> $outFile
 
     # echo "[DEBUG] Looking for: $slidesPDF"
     if [ -f "$num"_*.pdf ]; then
