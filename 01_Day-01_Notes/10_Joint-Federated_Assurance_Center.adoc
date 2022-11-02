@@ -1,0 +1,75 @@
+= Joint Federated Assurance
+
+Mr. Brian Nowotny -- means "newcomer"
+
+== JFAC 
+* since 2008
+* Software and HW assurance capabilities
+** Original/strict mandate
+* Looking to maintain relevancy moving forward
+** BUT there's a bigger thread; from techincal engineering TO the warfighter
+* Can integrate lessons learned
+
+* CORE MESSAGE: it's JOINT in OSD
+* TAKE FEDERATED APPROACH
+** Used to mean "organizationally"
+** There's a value proposition to exploit/share DIGITAL Infrastructure
+*** Examples: documents (human readable), APIs for "machine readable", 
+
+== JFAC Goal 1: Stay ahead of threat landscape 
+
+== JFAC Goal 2: Holistic Assurance Across the Lifecycle
+Critical Software: Operating Systems
+Critical Technology Areas: AI/Models
+
+-- HOW do we assure them?
+-- Systems-of-systems ASSURANCE
+
+There are systems at the END
+
+* PPP might be AT THE FRONT (done once, maybe updated?)
+* BUT you have to keep looking at that conerns, and validate the baselines were met/updated/assured/etc.
+
+Q: How can we define mission assurance here?
+
+== JFAC Goal 3: Maximium Discovery and Utilization of Federated Assurance Resources
+
+JFAC.navy.mil -- knowledge managment capabilities
+CRWSBok -- have colelcted some information
+
+Opportunites to have communication between gov't and industry
+
+Push for machine readable movement of DoD D/I/etc. to enable review/authority tracing/simplification/etc.
+
+Bottomline: federation/integration of data to enable evidence-based assurance
+
+== JFAC Goal 4: Mature Assurance Technolgies and DEliver Capabilities at the Speed of Mission
+Want to insights and understanding on Gaps
+
+Mitigating Assiurance Gaps, Maturing Technologies into Capabilities, and Scaling to Enterprise Discoverability
+Establish repository / share/ make discoverable (Capability on Roadmap)
+
+== JFAC Goal 5: Providing Affordable and Scalable 
+
+== Mission and Systems Engineering
+
+== Federated Data Engabling Holistic Assurance:
+* DAta needs to be taged, to pull through the lifecycle, to then enable assure system design
+* 
+
+== Industry Engagement Opportunities
+* Rolling out assurance catalog
+
+
+* https://tradewindai.com/post/jfac-digital-assurance-catalog-cots-products
+* https://tradewinai.com/opportunities
+
+
+Q&A
+===
+Question (me): Are existing the open-source tools (1) able to integrate into DevSecOps Pipelines (e.g., are the used in PlatformOne), and (2) do any leverage "symbolic execution"?
+
+Question (me): On the developed tools: are the tools (1) leveraging models to assure designs (i.e., if you leverage SysML to design requirements, then are the developed tools showing traceability), or (2) using mathematically-based assurance methods?
+
+[  ] MAKE OUR 6 FASTER?
+
