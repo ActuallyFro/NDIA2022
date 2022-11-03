@@ -38,3 +38,7 @@ link:09_Techincal_MoPs_into_Project-Metrics_Nick_Pisano.pdf[ -- (Link 2: Slides)
 link:10_Dev-SoS_using_SysML.adoc[(Link1: Session Notes)]
 link:10_Method-for-Dev_SoS_Archs_Using-SysML_Model-Federaion_Chris_Swickline.pdf[ -- (Link 2: Slides)]
 
+11. ` Capability-Based Security Engineering for Strategy Formulation and Stakeholder Alignment`
+link:11_CBSSE.adoc[(Link1: Session Notes)]
+link:11_CBSE_Strategy_Formulation--Stakeholder-Align.pdf[ -- (Link 2: Slides)]
+
