@@ -1,0 +1,95 @@
+=  Capability-Based Security Engineering for Strategy Formulation and Stakeholder Alignment
+
+== Cability based System Security Engineering
+* Stake holder alignment! 
+** They are NOT the ones to listen to -- BUT they can effect
+** WANT to be engaged in the mission of security
+* Need want, awareness 
+
+TAKE SE members and GO LEARN 
+
+What is MVP with Security team?
+** NOT ask Encryprion expertise
+** BUT understand security thinkin/arch/sttate
+
+* CAN CAUSE ALIGNMENT of the team
+
+== Loss-driven Engineering
+WANT them to really think on "this project" and ID what we CANNOT LOSE
+
+== Modeling Tristworhtiness
+* RETURN to OLDEN DAYS
+** Mathematically risk based statemnts
+** We want EVIDENCE based solutions
+* Bottomline -- is the BOTTOMLINE
+
+== Security as a functional requirement 
+* WHAT do we pay attention to?
+** FUNCTIONAL REQURIEMENTS
+** IF secuirty IS NOT a functional requirement -- it's LIKELY ignored by SE's
+* Leveraging Loss-Driven needs -- then we can clearly communicate 
+
+== Security Orchtestration
+* WANT to use old solutions, CURRENT solutions
+* Need: WAHT IS the CURRENT sittuation
+* BOTTOMLINE -- is the Bottomline
+
+* Security of the moment -- what's going on, avoid it
+** LIKELY WE DO NOT IT TO BE the focus/ what's going on
+** They are operating at cyberspeeds -- "So do we"
+
+== Collaborative Mutual Protection
+* aregge to a collective for (mutal) protection
+* Separate agent that is watching what's going on -- asking "are we, or they, doing hte right thing"
+** each have a list -- not all the same thing -- BUT distrubuted cape (when collected) is good
+
+== ARchitectual Agility
+* Bottomline -- is the BOTTOMLINE
+
+
+== Operational Agility
+*asking to handover C2 to enable FASTER THAN NORMAL speeds
+
+* BOTTOMLINE -- is the Bottomline
+
+= Education 
+
+* HOW ARE WE every going to end up with a securityu provifiency on the SE team
+** AT an apprpirate level
+** with respect and LISTEN to SE team
+* Such that it's AGNOSTIC
+
+* Good Metrics -- best education, "people that don't have a clue" --> DO NOT have to be an EXPERT
+** seeking COMMON SENSE on Loss-driven effects
+** NOT NEEDED to be a tactical expert 
+
+== Holoistic
+* We need transdisciplinary -- to SPAN a wide range of different stakeholder
+* "on my left" ... "which is your left too"
+
+!!! COMMON LANGAUGE IS LOSS-DRIVEN NEEDS !!! (away from the podium IMPORTNAT!)
+
+== SQAURE (proof of conecpt) Secuirty Quality REquirements Engineering
+* Req's engineering IS KEY
+* they have ?9? steps -- WHAT we have to do tactically to MAKE it occur
+** WE DO NOT NEED the last 7!
+** They have a method to GET stakeholder alignment
+** Case studies
+* I WANT CASE STUDIES! 
+** If anyone can help
+
+Goals and needs !=
+
+* Steps
+** 1. can taxonomy and defintions
+*** 70/80 terms
+*** they asked WHAT they thought words mean (allows insight into knowledge and lack thereof)
+*** It allows ALLIGNEMENT/collaboration
+** 2. 
+
+== SE Vision 2035
+* WANT to make Cybersecurity embedded as concepts of safety 
+
+
+Double back/comment --
+Insight magazine: using gaming concepts "Very Small Entities" -- "..., but playing games may help"
