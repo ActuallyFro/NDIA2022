@@ -1,0 +1,36 @@
+= MAC at a TOP LEVEL!
+
+== Broad Brush
+* Best I can do: MAC in the BROAD SENSE
+* CAUTION -- I AM NOT THE ENGINEER! (Lt Col Trantham is our Lead) I don't want to pass the WRONG gouge!
+
+== SOME specifics
+* MAC has a Gov't Owned Ditigal design
+** Being validated with OTHER Gov't data + Modeling
+** Subsystem --> lead to FULL System
+* Areas of Modeling
+** Structure | Hydro | Aero
+* PUTTING it in a Gov't Accessible Cloud
+** To share data
+* Using AR/VR
+
+== MAC in the news
+* 30 Jul 21: https://www.afsoc.af.mil/News/Article-Display/Article/2714419/tasr-shaping-the-evolution-of-afsoc/
+** AFSOC highlighted MAC to AFMC at the Technology, Acquisition, and Sustainment Review, July 20-21.
+* 14 Sep 21: https://www.afsoc.af.mil/News/Article-Display/Article/2774017/teaching-the-commando-new-tricks/
+** "In partnership with the Air Force Research Lab's Strategic Development Planning and Experimentation (AFRL-SDPE) directorate, AFSOC is developing an MC-130J Commando II Amphibious Capability (MAC) to improve the platform's support of seaborne special operations"
+** "The development of the MAC capability is the culmination of multiple lines of effort," said Lt Col Josh Trantham, AFSOC Science, Systems, Technology, & Innovation (SST&I) Deputy Division Chief.
+** "This capability allows the Air Force to increase placement and access for infiltration, exfiltration, and personnel recovery, as well as providing enhanced logistical capabilities for future competition and conflict."
+** A five-phase rapid prototyping schedule
+** Aim was operational capability demonstration in only 17 months
+** While de-risking the concept for a future potential MAC program of record
+** Could field MAC for MC-130Js but also potentially field a similar amphibious capability for other C-130 variants with only minor variations.
+** Digital Proving Ground (DPG)
+*** AFSOC and private sector counterparts are currently testing MAC prototypes
+*** Through digital design, virtual reality modeling (VR), and computer-aided designs (CAD) i
+*** Paving the way for digital simulation, testing, and the use of advanced manufacturing for rapid prototyping and physical prototype testing
+
+According to Trantham and Cepak, the DPG can deliver mission review, aircraft system analysis, design ideation, engineering risk-reduction, virtual reality, concept imagery, feasibility studies, and other deliverables.
+* 12 Jan 22: https://www.afsoc.af.mil/News/Article-Display/Article/2897230/2021-afsocs-year-of-innovation/
+** The MAC helps the Air Force and [U.S. Special Operations Command] create cost-effective and complex dilemmas for our adversaries, particularly with runway independence for the Joint Force and our allies
+* MC-130J: https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104510/mc-130j-commando-ii/
