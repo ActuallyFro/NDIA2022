@@ -1,0 +1,70 @@
+= Software Bill of Materials
+Senior SE for SAIC
+SME on Sw, SwA for Acquisition and PPP
+
+Supports Ms. Melinda Reed -- he's covering for the WG
+
+== SBOM Project Effort - Contributors 
+* Met about 1/mo
+* Cory Ocker (Lead for the track in SSE)
+
+== CAtalyst
+* EO inspired
+* Trying to lay down how a purchasor could lay flat Sw req's/needs
+
+== Timeline 
+* Feb 2021 -- DevSecOps Conference -- work at NTIA
+* Since April Draft + DIDs
+* October -- ID'ed 12 Attributes (July previous were minimum elements)
+
+== Use Case Perspective (Dec 21)
+* Goal: focuse HOW the SBOM would be used
+* ID'ed three main players: dev, integrator, tester
+** Bottom up, how it's implemented, security risks/vulns
+** Known risks, alternative components, up thru obselecnes
+** USER of the SBOM, and potential contributor -- critical operational threads -- DEV test moreso than OPs test
+
+== Developer Sw Capes
+* Open Source played into this!
+
+== DEfinition TEster
+* Key: HOW is the product being used in the system
+* Know if there's enough details in the SBOM for testing
+
+== Dr. Friedman's Perspective 
+* Summary slide from presention -- TOOLING is still emerging
+* "How it will work" -- has NOT been tested!
+* **NOT ALL VULNs PUT ORGS AT RISK!!!**
+* CANNOT assume we will get full automation immediately
+
+==  SBOM takeaways
+* EXPANDED on (14208 expanded greatly) minimum
+* NO standardization for Formats and outputs
+* Lots of Known Unknows
+
+== Considerations and next steps
+* Was NOT the singular focus
+* ID'ed what is necessairy VS. the meta data (Minimum need vs. nice to haves)
+
+== Updated SBOM DID -- internal comments
+* EXPAND upfront text -- to give context and detail on what the DID
+* CHOSE XML/Machine-reable generic format -- versus are particular container
+
+== Revised SBOM DID 
+* Final stages in draft
+* LARGER group will be notified soon
+
+==  
+Standardize vs. Generic
+
+== Path Forward 
+* FAR language as regulatory langaune (
+* Q: "Stagnation Avoidance" (is it a ONE and done for the program; or more often)
+** Aim to have it be automated
+* Tracking CVE's separately
+* Q: "Trust but verify" play into this?
+** A: NEED Validation! 
+
+* Audits and assessments with BOM's -- so being mindful with Software
+** Google AND Microsoft have "artifact" collection methods
+

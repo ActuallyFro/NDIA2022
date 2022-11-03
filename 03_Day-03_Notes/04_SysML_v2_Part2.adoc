@@ -1,0 +1,19 @@
+=
+
+== Background and Objectives
+* We need the digital tool environent to adapt to evolving DE landscape
+*  Led to the SysML v2 Submission Team
+** 200+ people; 80
+* 2017 - RFP for v2.0
+** Main finding: MORE adaptability
+
+== KerML
+* Modeling Language to create Modeling Languages
+* THREE meta-models
+** it is the FOUNDATION for SysML
+
+== LML 
+* Leverages STRICT ontologies/classes/etc.
+
+== Innoslate is SPEC's Tool
+SysML implemented in their tool -- planning v2.0 support!

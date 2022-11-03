@@ -1,0 +1,53 @@
+= Competency Based Education
+You STAND on a Podium -- you present BEHIND a lectern
+
+== CBE
+* It's STUDENT CENTRIC -- to fill in THEIR GAPS
+* VS. TEACHER based "I the teacher deem you need to learn all this material"
+* Ken Barker -- at NDIA -- talking to Competnencies
+* The issue: DELIVERY MODALITY!
+
+== 2017 - AFIT Partnership
+* Started as Graduate Research project
+* ID'ed "Education Hub" (Dr. Mark Rieth)
+** Sprint at USAFA
+** Use social media type capes (e.g., Khan Academy) -- BUT behind CUI-wall
+
+== Old: Cyber Education Hub
+* Great community asset -- YouTube like
+* It was targeted to be the "home" for CBE
+
+== Then - to - now
+* Cyber Education Hub
+* 2019 "Acquistion Hub" or Education Hub
+* Avovle
+
+* Allows to share and implement Lessons Learned
+** "Does it? It USUALLY means Lessons Documented" ;)
+
+== AVOLVE
+* Took Cyber Education Hub -- moved from Tiles of Education
+* Put it on CloudOne -- at IL4 level
+* Still enabling User Generated Content
+** Crowdsourced content to supplement existing courses
+* Take content and STRING TOGEHTER (like MOOC's -- Massive Online Open Courses)
+** to create Learning Paths
+
+== Learning Paths
+* You DO NOT have to interact with every-piece-of-content
+* User drives what they interact with
+* This would enable CBE
+* ISSUE: DoD WANTS
+** DO NOT measure "completions" -- BUT/rather engagement with content items
+** Measure views vs.
+
+== Future Capes
+* Gamification
+
+== Q&A
+* Q: Governance for quality?
+* Q: WHAT incentives do users have to interact?
+
+Question: "Non-blue Check" Learning Paths --
+* AFSOC can make content -- but have to ask "mother may I"
+** Thoughts: can a "non-blue check" (think twitter) type, Learning Path Development Cape, be given?

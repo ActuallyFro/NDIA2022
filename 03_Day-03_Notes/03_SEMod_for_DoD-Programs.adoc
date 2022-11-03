@@ -1,0 +1,35 @@
+= Systems Engineering Modernization (SEMod) Key Enablers for System Development on DoD Programs
+
+== 
+
+== SEMod Focus Areas?
+* KEY enabler: configuration management (as a course!)
+
+== Exmplar Digital Acquition Thread Collaborator
+* WSE 027 MOSA -- from PEO: wanted a workshop -- now it's an examplar for education/quick turn
+** Missing TEchincal Configuration Management (Logs and MAnagement -- NOT TECH)
+* Mission Engineering -- is BIG, DEEP, and WIDE -- BUT they have deployed a new workshop
+* Upcoming
+** MBSE - target in Spring
+** DE Ecosystem -- next year
+
+Question: "Non-blue Check" Learning Paths -- 
+* AFSOC can make content -- but have to ask "mother may I"
+** Thoughts: can a "non-blue check" (think twitter) type, Learning Path Development Cape, be given?
+
+== Results
+* Highlights thru the list
+* MOSAs education needed
+
+== Example: Configuration Management in Digital Domain?
+* TIL (Today I Learned): NAVY has warrant holders FOR config management
+
+== Product Life Cycle Management?
+* Note the placeholder!
+* There's LOTS of discussion -- everything is in dev
+* We are TRYING 
+
+* DATA ALL THE THINGS!
+** There are "massive webs" of connections
+** DAU is the "authorative source" for Policy (AAF portal, and AAFDID|MDID)
+** What/how to we map the EDUCATION TO THOSE resources!?
