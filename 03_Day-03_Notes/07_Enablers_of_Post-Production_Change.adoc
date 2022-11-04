@@ -1,0 +1,54 @@
+=
+
+* Looking at Case studies!
+
+== Research Motivation
+* LOTS of systems have LONG, PROTRACTED development cycles
+* Idea to Fieled -- 20+ YEARS
+** IMPLIES that the environement it was fieled to CHANGES
+
+== Design for Changeability (DfC)
+*Look at: Flexibility vs. Robustness
+** FOCUSED ON Flexibility 
+** ROBUST systems are quite hard!
+
+== Enablers of Changeability
+** Modulariry
+** Margin -- excess of a system property (e.g., Power Generation on Ships)
+** CONOPs -- You LEAVE form -- but change it's use -- to enable to get new capes (e.g., A screwdrive can be used for MORE than a screwdriver)
+
+== What about Post Production Gap
+* there's a GAP of understanding HOW our systems change
+* This is where they are looking at...
+
+== Case Study
+* Hopefully NOT contributions
+* NOT look at A/B/c
+* Only three -- due to time
+
+== ORIGINAL requirements
+* C-130A exceeds requirement for payload, range, and power
+** "THEY CHEATED" ;) 
+*** Requirement was "one engine out" -- they can lose two
+*** ONLY design that submitted A FOUR ENGINE DESIGN
+
+== Arctic Operations
+
+== Navy
+
+== Space
+
+== Modularity
+* It's NOT perfectly modular
+** You need to leverage margin
+** Often it was excess power
+** We aren't REALLY understanding -- because Modularity is enabled by Margin -- we don't "know" what enables it in total
+
+== CONOPS Innovation
+* It's NOT really the silver bullet
+
+==
+YOU CANT really jsut strap on things into Steath Aircraft
+
+== New frontiner
+* CYBER CHANGES -- these can impact physical world
