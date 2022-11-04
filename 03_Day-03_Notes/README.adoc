@@ -1,0 +1,25 @@
+= Day 03 Notes
+01. `Software Bill of Materials`
+link:01_SBOM.adoc[(Link1: Session Notes)]
+
+02. `Competency Based Education`
+link:02_CBE_on_AVOLVE.adoc[(Link1: Session Notes)]
+
+03. `Systems Engineering Modernization (SEMod) Key Enablers for System Development on DoD Programs`
+link:03_SEMod_for_DoD-Programs.adoc[(Link1: Session Notes)]
+
+04. ``
+link:04_SysML_v2_Part2.adoc[(Link1: Session Notes)]
+
+05. ``
+link:05_MY_SysML_Presentaion.adoc[(Link1: Session Notes)]
+
+06. ``
+link:06_MY_SEMod_Panel.adoc[(Link1: Session Notes)]
+
+07. ``
+link:07_Enablers_of_Post-Production_Change.adoc[(Link1: Session Notes)]
+
+. `NOT A REAL FILE`
+link:TEMP.adoc[(Link1: Session Notes)]
+
