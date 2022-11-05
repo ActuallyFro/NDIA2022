@@ -1,15 +1,19 @@
 = Day 03 Notes
 01. `Software Bill of Materials`
 link:01_SBOM.adoc[(Link1: Session Notes)]
+link:01_SBOM_Bradley_Lanford.pdf[ -- (Link 2: Slides)]
 
 02. `Competency Based Education`
 link:02_CBE_on_AVOLVE.adoc[(Link1: Session Notes)]
+link:02_AVOVLE_Richard_Sugarman.pdf[ -- (Link 2: Slides)]
 
 03. `Systems Engineering Modernization (SEMod) Key Enablers for System Development on DoD Programs`
 link:03_SEMod_for_DoD-Programs.adoc[(Link1: Session Notes)]
+link:03_SEMOD_for_System-Dev_on_DoD_Programs_Robert_Raygan.pdf[ -- (Link 2: Slides)]
 
 04. ``
 link:04_SysML_v2_Part2.adoc[(Link1: Session Notes)]
+link:04_SysML_2-0_Mike_Campbell.pdf[ -- (Link 2: Slides)]
 
 05. ``
 link:05_MY_SysML_Presentaion.adoc[(Link1: Session Notes)]
